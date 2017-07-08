@@ -63,19 +63,16 @@ class UsersController extends BaseController {
 		this
 			.usersManager
 			.getAll()
+			.then(users => _.filter(users, user => user.nick !== req.user.nick))
 			.then(users => {
 				return users.map(user => {
-					if (user.nick === req.user.nick) return;
 					return this.questionsManager.count(user.id, user);
 				});
 			})
 			.then(promises => {
 				return Promise.all(promises);
 			})
-			.then(users => {
-				console.log(users);
-				this.success(res, users)
-			})
+			.then(users => this.success(res, users))
 			.catch(error => this.error(res, error));
 	}
 
