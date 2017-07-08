@@ -12,8 +12,8 @@ module.exports = mongoose => {
 			type: String,
 			required: true
 		},
-		role: {
-			type: String,
+		roles: {
+			type: [String],
 			required: true
 		},
 		wallet: {

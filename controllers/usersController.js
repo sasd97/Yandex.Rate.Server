@@ -16,6 +16,7 @@ class UsersController extends BaseController {
 	_onBind() {
 		super._onBind();
 	}
+
 }
 
 module.exports = UsersController;

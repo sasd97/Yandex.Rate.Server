@@ -42,6 +42,11 @@ class AppDatabase extends AppUnit {
 	_onDatabaseInvoke(error) {
 		if (error) return mixedLogger.error(error);
 		mixedLogger.info(`Connected to mongo ${databaseConfig.URI}`);
+
+		this.userManager
+			.parseUsers(usersConfig.people)
+			.then(users => mixedLogger.info('Users created'))
+			.catch(error => mixedLogger.error(`Error while create users: ${error}`));
 	}
 
 
