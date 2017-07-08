@@ -71,7 +71,7 @@ class QuestionsController extends BaseController {
 			.findByNick(nick)
 			.then(user => {
 				if (!user) throw errorConfig.USER_NOT_FOUND;
-				//todo: lock
+
 				return this.questionsManager.create(user.id, description);
 			})
 			.then(question => {

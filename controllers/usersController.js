@@ -87,19 +87,41 @@ class UsersController extends BaseController {
 	}
 
 	lock(req, res, next) {
-		const { token } = req.query;
+		const schema = Joi.object().keys({
+			nick: Joi.string().required(),
+			token: Joi.string().required()
+		});
 
-		this
-			.usersManager
-			.changeActive(req.user.nick, token, false)
+		const validationResult = this.validate(req, schema);
+		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+
+		const { nick, token } = req.query;
+
+
+		this.usersManager
+			.findByNick(nick)
+			.then(user => {
+				if (!user.isActive) throw errorConfig.USER_IS_LOCK;
+				return this.usersManager.changeActive(user.nick, token, false);
+			})
 			.then(user => this.success(res, { success: true }))
 			.catch(error => this.error(res, error));
 	}
 
 	release(req, res, next) {
+		const schema = Joi.object().keys({
+			nick: Joi.string().required(),
+			token: Joi.string().required()
+		});
+
+		const validationResult = this.validate(req, schema);
+		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+
+		const { nick, token } = req.query;
+
 		this
 			.usersManager
-			.changeActive(req.user.nick, null, true)
+			.changeActive(nick, null, true)
 			.then(user => this.success(res, { success: true }))
 			.catch(error => this.error(res, error));
 	}

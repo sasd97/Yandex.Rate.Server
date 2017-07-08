@@ -35,5 +35,11 @@ module.exports = {
 		customError: true,
 		statusCode: 404,
 		code: 6
+	},
+	USER_IS_LOCK: {
+		message: 'User is lock',
+		customError: true,
+		statusCode: 401,
+		code: 7
 	}
 };
