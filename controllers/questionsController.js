@@ -64,25 +64,34 @@ class QuestionsController extends BaseController {
 		const validationResult = this.validate(req, schema);
 		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
 
-		const { nick, description } = req.query;
+		const { nick, description, token } = req.query;
+
+		let userNick;
+		let question;
 
 		return this
 			.usersManager
 			.findByNick(nick)
 			.then(user => {
 				if (!user) throw errorConfig.USER_NOT_FOUND;
+				if (!user.isActive) {
+					if (user.activationToken !== token) throw errorConfig.USER_IS_LOCK;
+				}
 
+				userNick = user.nick;
 				return this.questionsManager.create(user.id, description);
 			})
-			.then(question => {
-				return {
-					id: question.id,
-					description: question.description,
-					likes: question.likes,
-					dislikes: question.dislikes
+			.then(q => {
+				question = {
+					id: q.id,
+					description: q.description,
+					likes: q.likes,
+					dislikes: q.dislikes
 				};
+
+				return this.usersManager.changeActive(userNick, null, true);
 			})
-			.then(questions => this.success(res, questions))
+			.then(() => this.success(res, question))
 			.catch(error => this.error(res, error));
 	}
 

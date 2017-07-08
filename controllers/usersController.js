@@ -98,7 +98,6 @@ class UsersController extends BaseController {
 
 		const { nick, token } = req.query;
 
-
 		this.usersManager
 			.findByNick(nick)
 			.then(user => {
@@ -120,7 +119,7 @@ class UsersController extends BaseController {
 		const validationResult = this.validate(req, schema);
 		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
 
-		const { nick, token } = req.query;
+		const { nick } = req.query;
 
 		this
 			.usersManager
