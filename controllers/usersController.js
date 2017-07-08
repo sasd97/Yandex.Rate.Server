@@ -43,6 +43,7 @@ class UsersController extends BaseController {
 			.then(u => {
 				if (!u) return next(errorConfig.USER_NOT_FOUND);
 
+				user.wallet = u.wallet;
 				user.roles = u.roles;
 				user.isActive = u.isActive;
 
