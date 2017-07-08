@@ -65,10 +65,20 @@ class QuestionManager extends AppUnit {
 			.findOne({ _id: id }).exec()
 			.then(question => {
 				const likeQuery = _.contains(question.likers, userId);
-				if (!likeQuery) return this.questionModel
-					.findOneAndUpdate({ _id: id }, { $inc: { likes: 1 }, $push: { likers: userId } }, { 'new': true }).exec();
+				const dislikeQuery = _.contains(question.dislikers, userId);
+
+				const query = likeQuery ? { $inc: { likes: -1 }, $pop: { likers: userId }  }
+				: { $inc: { likes: 1 }, $push: { likers: userId } };
+
+				if (likeQuery && dislikeQuery) {
+					_.extend(query['$inc'], { dislikes: -1 });
+					_.extend(query['$pop'], { dislikers: userId });
+				}
+
 				return this.questionModel
-					.findOneAndUpdate({ _id: id }, { $inc: { likes: -1 }, $pop: { likers: userId }  }, { 'new': true }).exec();
+					.findOneAndUpdate({ _id: id },
+						query,
+						{ 'new': true }).exec();
 			});
 	}
 
@@ -76,14 +86,20 @@ class QuestionManager extends AppUnit {
 		return this.questionModel
 			.findOne({ _id: id }).exec()
 			.then(question => {
+				const likeQuery = _.contains(question.likers, userId);
 				const dislikeQuery = _.contains(question.dislikers, userId);
-				if (!dislikeQuery) return this.questionModel
-					.findOneAndUpdate({ _id: id },
-						{ $inc: { dislikes: 1 },  $push: { dislikers: userId }  },
-						{ 'new': true }).exec();
+
+				const query = dislikeQuery ? { $inc: { dislikes: -1 }, $pop: { dislikers: userId } }
+					: { $inc: { dislikes: 1 },  $push: { dislikers: userId }  };
+
+				if (dislikeQuery && likeQuery) {
+					_.extend(query['$inc'], { likes: -1 });
+					_.extend(query['$pop'], { likers: userId });
+				}
+
 				return this.questionModel
 					.findOneAndUpdate({ _id: id },
-						{ $inc: { dislikes: -1 }, $pop: { dislikers: userId } },
+						query,
 						{ 'new': true }).exec();
 			});
 	}
