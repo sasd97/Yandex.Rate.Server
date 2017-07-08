@@ -124,21 +124,24 @@ class QuestionsController extends BaseController {
 		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
 
 		const { id } = req.query;
+		let question;
 
 		return this
 			.questionsManager
 			.like(id, req.user.id)
-			.then(question => {
-				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
+			.then(q => {
+				if (!q) throw errorConfig.QUESTION_NOT_FOUND;
 
-				return {
-					id: question.id,
-					description: question.description,
-					likes: question.likes,
-					dislikes: question.dislikes
+				question = {
+					id: q.id,
+					description: q.description,
+					likes: q.likes,
+					dislikes: q.dislikes
 				};
+
+				return this.usersManager.updateWallet(q.userId);
 			})
-			.then(questions => this.success(res, questions))
+			.then(() => this.success(res, question))
 			.catch(error => this.error(res, error));
 	}
 

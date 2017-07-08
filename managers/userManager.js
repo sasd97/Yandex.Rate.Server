@@ -15,6 +15,11 @@ class UserManager extends AppUnit {
 		this.changeActive = this.changeActive.bind(this);
 	}
 
+	updateWallet(id) {
+		return this.userModel.findOneAndUpdate({ _id: id }, { $inc: { wallet: 2 } }, { 'new': true }).exec();
+	}
+
+
 	parseUsers(usersConfig) {
 		return this.userModel
 			.find({})
