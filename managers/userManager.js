@@ -54,8 +54,8 @@ class UserManager extends AppUnit {
 		return this.userModel.findOne({ nick }).exec();
 	}
 
-	changeActive(nick, activationToken, isActive) {
-		return this.userModel.findOneAndUpdate({ nick }, { activationToken, isActive }, { 'new': true }).exec();
+	changeActive(nick, activationToken, isActive, lockDate = null) {
+		return this.userModel.findOneAndUpdate({ nick }, { activationToken, isActive, lockDate }, { 'new': true }).exec();
 	}
 }
 

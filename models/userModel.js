@@ -28,6 +28,9 @@ module.exports = mongoose => {
 		activationToken: {
 			type: String
 		},
+		lockDate: {
+			type: Date
+		},
 		creationDate: {
 			type: Date,
 			default: Date.now

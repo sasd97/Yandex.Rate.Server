@@ -7,6 +7,7 @@ const Joi = require('joi');
 
 const userResponseProjector = require('../models/response/userResponseModel');
 const cryptoUtils = require('../utils/cryptoUtils');
+const dateUtils = require('../utils/dateUtils');
 const errorConfig = require('../config/errors');
 
 class UsersController extends BaseController {
@@ -101,8 +102,10 @@ class UsersController extends BaseController {
 		this.usersManager
 			.findByNick(nick)
 			.then(user => {
-				if (!user.isActive) throw errorConfig.USER_IS_LOCK;
-				return this.usersManager.changeActive(user.nick, token, false);
+				if (!user.isActive) {
+					if (!dateUtils.isLockExpires(user.lockDate)) throw errorConfig.USER_IS_LOCK;
+				}
+				return this.usersManager.changeActive(user.nick, token, false, Date.now());
 			})
 			.then(user => this.success(res, { success: true }))
 			.catch(error => this.error(res, error));
