@@ -70,7 +70,7 @@ class QuestionManager extends AppUnit {
 				const query = likeQuery ? { $inc: { likes: -1 }, $pop: { likers: userId }  }
 				: { $inc: { likes: 1 }, $push: { likers: userId } };
 
-				if (likeQuery && dislikeQuery) {
+				if (!likeQuery && dislikeQuery) {
 					_.extend(query['$inc'], { dislikes: -1 });
 					_.extend(query['$pop'], { dislikers: userId });
 				}
@@ -92,7 +92,7 @@ class QuestionManager extends AppUnit {
 				const query = dislikeQuery ? { $inc: { dislikes: -1 }, $pop: { dislikers: userId } }
 					: { $inc: { dislikes: 1 },  $push: { dislikers: userId }  };
 
-				if (dislikeQuery && likeQuery) {
+				if (!dislikeQuery && likeQuery) {
 					_.extend(query['$inc'], { likes: -1 });
 					_.extend(query['$pop'], { likers: userId });
 				}

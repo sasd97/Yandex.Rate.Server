@@ -41,5 +41,11 @@ module.exports = {
 		customError: true,
 		statusCode: 401,
 		code: 7
+	},
+	NOT_ENOUGH_BALANCE: {
+		message: 'Your wallet is empty',
+		customError: true,
+		statusCode: 500,
+		code: 8
 	}
 };

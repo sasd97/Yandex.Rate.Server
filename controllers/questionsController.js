@@ -162,23 +162,28 @@ class QuestionsController extends BaseController {
 
 		const validationResult = this.validate(req, schema);
 		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+		if (req.user.wallet <= 0) return next(errorConfig.NOT_ENOUGH_BALANCE);
 
 		const { id } = req.query;
+		let question;
 
 		return this
 			.questionsManager
 			.dislike(id, req.user.id)
-			.then(question => {
-				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
+			.then(q => {
+				if (!q) throw errorConfig.QUESTION_NOT_FOUND;
 
-				return {
-					id: question.id,
-					description: question.description,
-					likes: question.likes,
-					dislikes: question.dislikes
+				question = {
+					id: q.id,
+					description: q.description,
+					likes: q.likes,
+					dislikes: q.dislikes
 				};
+
+				return question;
 			})
-			.then(questions => this.success(res, questions))
+			.then(() => this.usersManager.decreaseWallet(req.user.id))
+			.then(() => this.success(res, question))
 			.catch(error => this.error(res, error));
 	}
 }
