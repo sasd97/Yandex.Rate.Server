@@ -87,11 +87,21 @@ class UsersController extends BaseController {
 	}
 
 	lock(req, res, next) {
+		const { token } = req.query;
 
+		this
+			.usersManager
+			.changeActive(req.user.nick, token, false)
+			.then(user => this.success(res, { success: true }))
+			.catch(error => this.error(res, error));
 	}
 
 	release(req, res, next) {
-
+		this
+			.usersManager
+			.changeActive(req.user.nick, null, true)
+			.then(user => this.success(res, { success: true }))
+			.catch(error => this.error(res, error));
 	}
 }
 

@@ -12,6 +12,7 @@ class UserManager extends AppUnit {
 		this.getAll = this.getAll.bind(this);
 		this.parseUsers = this.parseUsers.bind(this);
 		this.findByIdAndNick = this.findByIdAndNick.bind(this);
+		this.changeActive = this.changeActive.bind(this);
 	}
 
 	parseUsers(usersConfig) {
@@ -46,6 +47,10 @@ class UserManager extends AppUnit {
 
 	findByCredentials(nick) {
 		return this.userModel.findOne({ nick }).exec();
+	}
+
+	changeActive(nick, activationToken, isActive) {
+		return this.userModel.findOneAndUpdate({ nick }, { activationToken, isActive }, { 'new': true }).exec();
 	}
 }
 

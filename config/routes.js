@@ -4,7 +4,9 @@ module.exports = {
 	users: {
 		authorize: '/auth',
 		getAll: '/users/all',
-		profile: '/profile'
+		profile: '/profile',
+		lock: '/lock',
+		release: '/release'
 	},
 	questions: {
 	}

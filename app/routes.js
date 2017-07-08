@@ -56,6 +56,8 @@ class AppRoutes extends AppUnit {
 		app.get(paths.authorize, controller.authorize);
 		app.get(paths.profile, this.authorizationMiddleware, controller.profile);
 		app.get(paths.getAll, this.authorizationMiddleware, controller.getAll);
+		app.get(paths.lock, this.authorizationMiddleware, controller.lock);
+		app.get(paths.release, this.authorizationMiddleware, controller.release);
 	}
 
 	registerQuestion(app, paths, controller) {
