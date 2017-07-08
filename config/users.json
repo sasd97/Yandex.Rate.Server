@@ -1,0 +1,4094 @@
+{
+    "people": [
+        {
+            "birthday": "05-07", 
+            "name": "\u041a\u0430\u043b\u0430\u043d \u0410\u0431\u0435", 
+            "roles": [
+                "manager"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "enhydra"
+        }, 
+        {
+            "birthday": "10-06", 
+            "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u041a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u0430", 
+            "roles": [
+                "manager"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "kolokola"
+        }, 
+        {
+            "birthday": "10-24", 
+            "name": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0411\u0430\u0443\u043c", 
+            "roles": [
+                "manager"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "zakoruchka"
+        }, 
+        {
+            "birthday": "06-24", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0418\u0441\u043c\u0430\u0433\u0438\u043b\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "telegram": "vismagilov"
+        }, 
+        {
+            "birthday": "11-26", 
+            "name": "\u041e\u043b\u044c\u0433\u0430 \u0414\u043e\u0441\u0430\u0435\u0432\u0430", 
+            "roles": [
+                "administrator"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "zazazzu"
+        }, 
+        {
+            "birthday": "04-07", 
+            "name": "\u0418\u043b\u044c\u044f \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "ivorobiev"
+        }, 
+        {
+            "birthday": "12-20", 
+            "name": "\u0410\u043b\u0451\u043d\u0430 \u041a\u0430\u043b\u0430\u043c\u0431\u0435\u0442", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "alena_kalambet"
+        }, 
+        {
+            "birthday": "06-03", 
+            "name": "\u0415\u043b\u0435\u043d\u0430 \u0411\u0443\u0431\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "crazysolntse"
+        }, 
+        {
+            "birthday": "12-01", 
+            "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "erlebedeva"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u0446\u043a\u0435\u0432\u0438\u0447", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "04-19", 
+            "name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0430\u043a\u0443\u043d\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "bobuk"
+        }, 
+        {
+            "birthday": "03-30", 
+            "name": "\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0410\u0433\u0430\u043f\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "avyacheslav"
+        }, 
+        {
+            "birthday": "08-20", 
+            "name": "\u0410\u043d\u0442\u043e\u043d \u041a\u0430\u0440\u043f\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "appleby"
+        }, 
+        {
+            "birthday": "08-25", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0411\u044b\u043a\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "dmitrybykov"
+        }, 
+        {
+            "birthday": "08-27", 
+            "name": "\u0412\u0430\u0440\u0432\u0430\u0440\u0430 \u0421\u0435\u043c\u0435\u043d\u0438\u0445\u0438\u043d\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "semenihinavs"
+        }, 
+        {
+            "birthday": "08-29", 
+            "name": "\u041f\u0430\u0432\u0435\u043b \u0411\u044b\u0432\u0448\u0438\u0445", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "bulerjan"
+        }, 
+        {
+            "birthday": "08-09", 
+            "name": "\u042e\u043b\u0438\u044f \u0411\u0430\u0431\u0438\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "yubabikova"
+        }, 
+        {
+            "birthday": "07-10", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u0440\u0438\u0447\u0443\u043d", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "sanches_ya"
+        }, 
+        {
+            "birthday": "12-15", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0413\u0435\u0432\u0430\u043a", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "gevakandrew"
+        }, 
+        {
+            "birthday": "06-19", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0418\u0432\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "dmitryivanov"
+        }, 
+        {
+            "birthday": "04-27", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0412\u044b\u0441\u043e\u043a\u043e\u0432\u0441\u043a\u0438\u0439", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "vysokovskiy"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0418\u043b\u044c\u044f \u041a\u0440\u0430\u0441\u0438\u043d\u0441\u043a\u0438\u0439", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "02-27", 
+            "name": "\u042e\u0440\u0438\u0439 \u041f\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "telegram": "podorozhnyy"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0425\u0430\u0440\u0438\u0442\u043e\u043d \u041c\u0430\u0442\u0432\u0435\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u041e\u043b\u0435\u0433 \u042f\u043a\u0443\u0431\u0435\u043d\u043a\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041c\u043e\u0438\u0441\u0435\u0435\u043d\u043a\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "10-04", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041b\u0443\u043a\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "kinlu"
+        }, 
+        {
+            "birthday": "04-21", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0443\u043b\u0430\u0447\u0438\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "kulachikova"
+        }, 
+        {
+            "birthday": "07-26", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "funsad"
+        }, 
+        {
+            "birthday": "12-17", 
+            "name": "\u041b\u0438\u0437\u0430 \u0421\u0435\u043c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "laofla"
+        }, 
+        {
+            "birthday": "08-22", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041d\u0430\u0441\u0435\u0434\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "motokot"
+        }, 
+        {
+            "birthday": "09-27", 
+            "name": "\u0412\u0438\u043a\u0442\u043e\u0440 \u041b\u0430\u043c\u0431\u0443\u0440\u0442", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "lamburt"
+        }, 
+        {
+            "birthday": "10-04", 
+            "name": "\u041e\u043b\u0435\u0433 \u041b\u0435\u0432\u0447\u0443\u043a", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "olevchuk"
+        }, 
+        {
+            "birthday": "05-07", 
+            "name": "\u041e\u043b\u044c\u0433\u0430 \u0420\u0436\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "telegram": "olyaoleum"
+        }, 
+        {
+            "birthday": "01-07", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "dimastepanov"
+        }, 
+        {
+            "birthday": "12-24", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0430\u0434\u0430\u043d\u0435\u0440", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr"
+            ], 
+            "telegram": "akadaner"
+        }, 
+        {
+            "birthday": "03-11", 
+            "name": "\u041c\u0430\u0440\u0438\u044f \u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "mariakutuzova"
+        }, 
+        {
+            "birthday": "03-09", 
+            "name": "\u0418\u043b\u044c\u0434\u0430\u0440 \u041a\u0430\u0440\u0438\u043c\u043e\u0432", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "thevery"
+        }, 
+        {
+            "birthday": "06-07", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0429\u0435\u0440\u0431\u0438\u043d\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "avstaim"
+        }, 
+        {
+            "birthday": "03-01", 
+            "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "polikarpovvm"
+        }, 
+        {
+            "birthday": "09-09", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0422\u0430\u0433\u0430\u043a\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "tagakov"
+        }, 
+        {
+            "birthday": "12-23", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u043e\u043f\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "busylee"
+        }, 
+        {
+            "birthday": "02-02", 
+            "name": "\u0414\u0435\u043d\u0438\u0441 \u0417\u0430\u0433\u0430\u0435\u0432\u0441\u043a\u0438\u0439", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "zagayevskiy"
+        }, 
+        {
+            "birthday": "12-12", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u0430\u044e\u0448\u043a\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "ckesc"
+        }, 
+        {
+            "birthday": "03-10", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "justmnemonic"
+        }, 
+        {
+            "birthday": "11-13", 
+            "name": "\u0418\u043b\u044c\u044f \u041c\u043e\u0437\u0435\u0440\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "etoneilya"
+        }, 
+        {
+            "birthday": "02-28", 
+            "name": "\u041a\u0438\u0440\u0438\u043b\u043b \u0411\u043e\u0440\u0438\u0441\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "lensvol"
+        }, 
+        {
+            "birthday": "08-08", 
+            "name": "\u0420\u0443\u0441\u0442\u0430\u043c \u0421\u0438\u043d\u044e\u043a\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "rustikxxx"
+        }, 
+        {
+            "birthday": "03-11", 
+            "name": "\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u043c", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "tayrinn"
+        }, 
+        {
+            "birthday": "05-17", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0416\u0443\u043a\u043e\u0432", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "fasterm"
+        }, 
+        {
+            "birthday": "09-12", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0432\u0438\u0440\u0438\u0445\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "dmn_sv"
+        }, 
+        {
+            "birthday": "11-17", 
+            "name": "\u042d\u0434\u0443\u0430\u0440\u0434 \u041c\u0438\u0448\u0438\u043d", 
+            "roles": [
+                "mentor", 
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "edmishin"
+        }, 
+        {
+            "birthday": "05-08", 
+            "name": "\u042e\u043b\u0438\u044f \u041a\u0440\u0438\u0432\u043e\u0432\u0430", 
+            "roles": [
+                "administrator"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "jul_lik"
+        }, 
+        {
+            "birthday": "08-25", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0417\u0430\u0439\u0446\u0435\u0432", 
+            "roles": [
+                "mentor", 
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "madcucumber"
+        }, 
+        {
+            "birthday": "05-28", 
+            "name": "\u041b\u043e\u043b\u0430 \u041a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "boss"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "sophyellisbextor"
+        }, 
+        {
+            "birthday": "09-13", 
+            "name": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0414\u0438\u0447\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "administrator"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "gus_v_marinade"
+        }, 
+        {
+            "birthday": "02-26", 
+            "name": "\u0410\u043d\u0442\u043e\u043d \u0422\u0435\u043d", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "funwatercat"
+        }, 
+        {
+            "birthday": "04-28", 
+            "name": "\u0418\u043b\u044c\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432", 
+            "roles": [
+                "principal"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "alcozombie"
+        }, 
+        {
+            "birthday": "02-04", 
+            "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0412\u0430\u0441\u044e\u043d\u0438\u043d", 
+            "roles": [
+                "principal", 
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "kolmarlopez"
+        }, 
+        {
+            "birthday": "10-15", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0422\u0435\u0440\u043d\u043e\u0432\u044b\u0445", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "ternos"
+        }, 
+        {
+            "birthday": "09-11", 
+            "name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0427\u0435\u043c\u0435\u0440\u0438\u0441", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "chmrs"
+        }, 
+        {
+            "birthday": "07-25", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u043e\u0440\u0443\u0437", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dmoruz"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0411\u0440\u044f\u043d\u0446\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "govorit"
+        }, 
+        {
+            "birthday": "02-04", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0424\u0435\u0434\u043e\u0440\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "wladyslawfedorov"
+        }, 
+        {
+            "birthday": "02-15", 
+            "name": "\u0414\u0430\u0440\u044c\u044f \u0421\u0442\u0430\u0440\u0438\u0446\u044b\u043d\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dashatoday"
+        }, 
+        {
+            "birthday": "11-02", 
+            "name": "\u0410\u043d\u0442\u043e\u043d \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "awinogradov"
+        }, 
+        {
+            "birthday": "05-17", 
+            "name": "\u0414\u0430\u0440\u044c\u044f \u0412\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dariavorontsova"
+        }, 
+        {
+            "birthday": "02-22", 
+            "name": "\u0422\u0438\u043c\u0443\u0440 \u041d\u0443\u0440\u0443\u0442\u0434\u0438\u043d\u043e\u0432", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "tilllur"
+        }, 
+        {
+            "birthday": "03-16", 
+            "name": "\u0414\u0430\u0440\u044c\u044f \u041c\u0430\u0440\u0442\u044b\u043d\u044e\u043a", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dashamrt"
+        }, 
+        {
+            "birthday": "10-15", 
+            "name": "\u0418\u0432\u0430\u043d \u0423\u0432\u0430\u0440\u043e\u0432", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "uvarovivan"
+        }, 
+        {
+            "birthday": "12-04", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0428\u0438\u043c\u043e\u0432", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "sh1mm"
+        }, 
+        {
+            "birthday": "08-12", 
+            "name": "\u0423\u043b\u044c\u044f\u043d\u0430 \u0421\u0430\u043b\u043e", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "ms_mix_up"
+        }, 
+        {
+            "birthday": "12-21", 
+            "name": "\u041d\u0438\u043a\u0438\u0442\u0430 \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "stnikita"
+        }, 
+        {
+            "birthday": "12-09", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u041c\u0430\u043d\u0443\u0438\u043b\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "houdini_logic"
+        }, 
+        {
+            "birthday": "04-11", 
+            "name": "\u0420\u043e\u043c\u0430\u043d \u0428\u0430\u0434\u0440\u0438\u043d", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "romanshadrin"
+        }, 
+        {
+            "birthday": "02-18", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0443\u0434\u0438\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "comicsans88"
+        }, 
+        {
+            "birthday": "03-10", 
+            "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041f\u0440\u043e\u0448\u0443\u0442\u0438\u043d\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "podnebesnaya_s"
+        }, 
+        {
+            "birthday": "05-07", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0430\u043c\u0430\u0440\u0438\u043d", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "alecsamarin"
+        }, 
+        {
+            "birthday": "05-03", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0423\u0441\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "ausenko"
+        }, 
+        {
+            "birthday": "09-27", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0422\u0430\u0440\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "redim"
+        }, 
+        {
+            "birthday": "07-26", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0429\u0435\u0433\u043b\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "msheglov"
+        }, 
+        {
+            "birthday": "10-08", 
+            "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041f\u0435\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "sperlovskaya"
+        }, 
+        {
+            "birthday": "03-18", 
+            "name": "\u0415\u0433\u043e\u0440 \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "epislon"
+        }, 
+        {
+            "birthday": "11-13", 
+            "name": "\u0424\u0430\u0440\u0445\u0430\u0442 \u0410\u043c\u0438\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "f_aminov"
+        }, 
+        {
+            "birthday": "10-17", 
+            "name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041a\u0443\u043b\u044c\u0431\u0430\u0446\u043a\u0438\u0439", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "damarcus"
+        }, 
+        {
+            "birthday": "07-27", 
+            "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "leoaleksandrov"
+        }, 
+        {
+            "birthday": "02-16", 
+            "name": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u041c\u0430\u043a\u0435\u0435\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "stasmakeev"
+        }, 
+        {
+            "birthday": "03-13", 
+            "name": "\u0418\u0432\u0430\u043d \u0421\u043c\u0438\u0440\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "buzzzzz"
+        }, 
+        {
+            "birthday": "02-21", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0412\u043e\u043b\u043e\u0434\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "alexandervolodin"
+        }, 
+        {
+            "birthday": "07-05", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0435\u0440\u0435\u0436\u043d\u043e\u0439", 
+            "roles": [
+                "principal"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "veged"
+        }, 
+        {
+            "birthday": "01-26", 
+            "name": "\u0415\u043b\u0435\u043d\u0430 \u0414\u0435\u043c\u0435\u043d\u0442\u044c\u0435\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "alennka"
+        }, 
+        {
+            "birthday": "07-21", 
+            "name": "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0434 \u0428\u043c\u044b\u0440\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "vsesh"
+        }, 
+        {
+            "birthday": "05-04", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "maxatwork"
+        }, 
+        {
+            "birthday": "05-12", 
+            "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u041b\u043e\u0433\u0438\u043d\u0435\u0432\u0441\u043a\u0438\u0439", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "yeti_or"
+        }, 
+        {
+            "birthday": "11-01", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0410\u043d\u0434\u0440\u0438\u044f\u043d\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "dima117a"
+        }, 
+        {
+            "birthday": "05-06", 
+            "name": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "ikarev"
+        }, 
+        {
+            "birthday": "08-30", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0412\u0435\u0440\u0445\u043e\u043b\u0430\u043d\u0446\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "verkholantsev"
+        }, 
+        {
+            "birthday": "12-23", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u041c\u043e\u0440\u043e\u0437\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "alt_j"
+        }, 
+        {
+            "birthday": "02-06", 
+            "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u041b\u0435\u0445", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "lekhko"
+        }, 
+        {
+            "birthday": "01-01", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u041f\u0440\u043e\u043a\u043e\u043f\u044e\u043a", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "andre487"
+        }, 
+        {
+            "birthday": "06-07", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0415\u0432\u0441\u0442\u0440\u043e\u043f\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "eandreyf"
+        }, 
+        {
+            "birthday": "10-04", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u043a\u0440\u0443\u0448\u0438\u043d", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "mishk0"
+        }, 
+        {
+            "birthday": "03-27", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0413\u0443\u0441\u0435\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "alexey_gusev"
+        }, 
+        {
+            "birthday": "07-21", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041b\u0438\u0442\u0432\u0438\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "sullenor"
+        }, 
+        {
+            "birthday": "06-07", 
+            "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0418\u043b\u044c\u0447\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "tavriaforever"
+        }, 
+        {
+            "birthday": "10-11", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "gurugray"
+        }, 
+        {
+            "birthday": "05-05", 
+            "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041c\u043e\u043b\u0447\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "mkmolchun"
+        }, 
+        {
+            "birthday": "06-28", 
+            "name": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "pr0kopenko"
+        }, 
+        {
+            "birthday": "07-14", 
+            "name": "\u0421\u0430\u0431\u0438\u043d\u0430 \u041a\u0430\u0440\u0430\u0441\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "sabina_ka"
+        }, 
+        {
+            "birthday": "01-11", 
+            "name": "\u0410\u0440\u0438\u043d\u0430 \u041c\u0430\u0440\u0430\u043a\u0438\u043d\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "arinamar"
+        }, 
+        {
+            "birthday": "09-09", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0411\u044b\u043d\u043a\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "mbynkin"
+        }, 
+        {
+            "birthday": "09-09", 
+            "name": "\u042e\u043b\u0438\u044f \u0412\u043e\u0439\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "juliavoynova"
+        }, 
+        {
+            "birthday": "08-02", 
+            "name": "\u0410\u043d\u043d\u0430 \u0412\u0435\u0440\u0445\u043e\u0432\u044b\u0445", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "alienfoxic"
+        }, 
+        {
+            "birthday": "07-22", 
+            "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0426\u0430\u044e\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "janyfer5"
+        }, 
+        {
+            "birthday": "10-26", 
+            "name": "\u0410\u0440\u0442\u0451\u043c \u0416\u0443\u0440\u0430\u0432\u043b\u0451\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "artyom_zhuravlev"
+        }, 
+        {
+            "birthday": "07-02", 
+            "name": "\u0410\u0440\u043a\u0430\u0434\u0438\u0439 \u0411\u043e\u0440\u0442\u043d\u0438\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "bortnikov_arkadiy"
+        }, 
+        {
+            "birthday": "06-30", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0442\u044b\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "shtbik"
+        }, 
+        {
+            "birthday": "01-20", 
+            "name": "\u0415\u0432\u0434\u043e\u043a\u0438\u044f \u041f\u043e\u0442\u0430\u043f\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "evdokiapotapova"
+        }, 
+        {
+            "birthday": "01-12", 
+            "name": "\u0420\u043e\u043c\u0430\u043d \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "just_zeenk"
+        }, 
+        {
+            "birthday": "11-24", 
+            "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u043e\u043b\u0443\u0431\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "ekamsu"
+        }, 
+        {
+            "birthday": "03-01", 
+            "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u043e\u043b\u0435\u0441\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "twostrokewasp"
+        }, 
+        {
+            "birthday": "12-15", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0415\u0440\u043c\u0430\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "vladermakov"
+        }, 
+        {
+            "birthday": "07-11", 
+            "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u0425\u0443\u0436\u0438\u043d\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "khuzhina"
+        }, 
+        {
+            "birthday": "04-10", 
+            "name": "\u041b\u044e\u0434\u043c\u0438\u043b\u0430 \u0411\u043e\u0431\u0440\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "lbobrovskaia"
+        }, 
+        {
+            "birthday": "09-10", 
+            "name": "\u041b\u0438\u0430\u043d\u0430 \u0413\u0430\u0440\u0435\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "elji_di"
+        }, 
+        {
+            "birthday": "04-08", 
+            "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0421\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "anastasiya_msu"
+        }, 
+        {
+            "birthday": "12-09", 
+            "name": "\u0414\u0430\u043d\u0438\u0438\u043b \u0427\u0435\u043f\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "zkid18"
+        }, 
+        {
+            "birthday": "10-05", 
+            "name": "\u0418\u0433\u043e\u0440\u044c \u0412\u043e\u043b\u043e\u0434\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "ivolodin"
+        }, 
+        {
+            "birthday": "10-25", 
+            "name": "\u0415\u0433\u043e\u0440 \u0421\u0432\u0435\u0440\u0442\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "egorsvertkov"
+        }, 
+        {
+            "birthday": "12-30", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0425\u0440\u0443\u0431\u0438\u043b\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "hrubilov"
+        }, 
+        {
+            "birthday": "07-13", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0420\u043e\u0434\u043d\u0438\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "dimarodnikov"
+        }, 
+        {
+            "birthday": "05-28", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u043b\u043e\u0444\u0435\u0435\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "dimamalofeev"
+        }, 
+        {
+            "birthday": "07-27", 
+            "name": "\u042e\u043b\u0438\u044f \u0421\u0435\u0440\u0435\u0434\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "amulikalum"
+        }, 
+        {
+            "birthday": "09-22", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u041b\u044b\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "maxfrise"
+        }, 
+        {
+            "birthday": "04-17", 
+            "name": "\u041c\u0430\u0440\u0438\u044f \u0415\u0432\u0441\u0442\u0440\u043e\u043f\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "masha4masha"
+        }, 
+        {
+            "birthday": "07-24", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0413\u0430\u0437\u0438\u0437\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "alexandr_bbm"
+        }, 
+        {
+            "birthday": "03-03", 
+            "name": "\u0410\u0440\u0442\u0451\u043c \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "tema_maksimov"
+        }, 
+        {
+            "birthday": "03-02", 
+            "name": "\u0415\u043b\u0435\u043d\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "liveldi"
+        }, 
+        {
+            "birthday": "04-05", 
+            "name": "\u0422\u0430\u043c\u0435\u0440\u043b\u0430\u043d \u041b\u043e\u043a\u044c\u044f\u0435\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "tamik"
+        }, 
+        {
+            "birthday": "07-19", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0411\u0430\u0442\u043e\u0433\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "batogov"
+        }, 
+        {
+            "birthday": "06-18", 
+            "name": "\u042f\u043d\u0430 \u0417\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "ianazzz"
+        }, 
+        {
+            "birthday": "01-07", 
+            "name": "\u0418\u0432\u0430\u043d \u0429\u0435\u0434\u0440\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "oktava6"
+        }, 
+        {
+            "birthday": "03-22", 
+            "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0422\u0440\u043e\u043f\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "eugeniyworld"
+        }, 
+        {
+            "birthday": "02-09", 
+            "name": "\u0412\u0435\u0440\u043e\u043d\u0438\u043a\u0430 \u0412\u043e\u0440\u043e\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "redveronika"
+        }, 
+        {
+            "birthday": "05-21", 
+            "name": "\u041f\u0430\u0432\u0435\u043b \u0421\u043a\u0440\u0438\u043f\u043a\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "spavelhjk"
+        }, 
+        {
+            "birthday": "12-02", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u043e\u043d\u043e\u043d\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "vbifonix"
+        }, 
+        {
+            "birthday": "03-29", 
+            "name": "\u0411\u0430\u043b\u0442\u0430\u0431\u0435\u043a \u0411\u0435\u043a\u0435\u043d\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "mr_uiux"
+        }, 
+        {
+            "birthday": "11-02", 
+            "name": "\u0410\u043d\u0433\u0435\u043b\u0438\u043d\u0430 \u0411\u0435\u043b\u043e\u043a\u0443\u0440\u0430\u044f", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "belokurayaa"
+        }, 
+        {
+            "birthday": "04-17", 
+            "name": "\u0410\u043d\u0442\u043e\u043d \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "chekit"
+        }, 
+        {
+            "birthday": "03-11", 
+            "name": "\u0413\u043b\u0435\u0431 \u0426\u044b\u0440\u0443\u043b\u044c\u043d\u0438\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "thgleb"
+        }, 
+        {
+            "birthday": "11-28", 
+            "name": "\u041a\u0438\u0440\u0438\u043b\u043b \u0410\u0440\u0442\u0438\u0445\u043e\u0432\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "moreblood"
+        }, 
+        {
+            "birthday": "01-05", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "bakusbakus"
+        }, 
+        {
+            "birthday": "03-08", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u0430\u0434\u0443\u043a\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "st235"
+        }, 
+        {
+            "birthday": "11-22", 
+            "name": "\u041d\u0430\u0440\u0435\u043a \u0410\u0432\u0435\u0442\u0438\u0441\u044f\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "narave"
+        }, 
+        {
+            "birthday": "04-25", 
+            "name": "\u0420\u043e\u043c\u0430\u043d \u0418\u043b\u043b\u0430\u0440\u0438\u043e\u043d\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "exwhythat"
+        }, 
+        {
+            "birthday": "03-24", 
+            "name": "\u0414\u0435\u043d\u0438\u0441 \u0411\u0443\u0437\u043c\u0430\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "bacecek"
+        }, 
+        {
+            "birthday": "10-23", 
+            "name": "\u0414\u0435\u043d\u0438\u0441 \u0412\u0435\u0440\u0435\u043d\u0446\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "denis_verentsov"
+        }, 
+        {
+            "birthday": "05-28", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u043e\u043b\u044c\u0446\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "ringov"
+        }, 
+        {
+            "birthday": "04-10", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u0440\u0442\u0451\u043c\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "alexanderartemov"
+        }, 
+        {
+            "birthday": "01-17", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041b\u0435\u0432\u0447\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "themishkun"
+        }, 
+        {
+            "birthday": "03-18", 
+            "name": "\u0413\u043b\u0435\u0431 \u0427\u0443\u0431\u0430\u0440\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "chubarich"
+        }, 
+        {
+            "birthday": "06-05", 
+            "name": "\u0410\u043b\u0451\u043d\u0430 \u041c\u0430\u043b\u044c\u0447\u0438\u0445\u0438\u043d\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "alena_malchish"
+        }, 
+        {
+            "birthday": "11-20", 
+            "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u0438\u043c", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "kim_michael0"
+        }, 
+        {
+            "birthday": "04-19", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0417\u0438\u043d\u043e\u0432\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "zino_911"
+        }, 
+        {
+            "birthday": "07-11", 
+            "name": "\u0418\u0440\u0438\u043d\u0430 \u041a\u0440\u0430\u0432\u0446\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "grechka62"
+        }, 
+        {
+            "birthday": "01-11", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0421\u0443\u0445\u043e\u0446\u043a\u0438\u0439", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "tljfn"
+        }, 
+        {
+            "birthday": "01-08", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041a\u043e\u043d\u0434\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "kondenko"
+        }, 
+        {
+            "birthday": "09-10", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0413\u0440\u0443\u0437\u0438\u043d\u0446\u0435\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "overtired"
+        }, 
+        {
+            "birthday": "11-26", 
+            "name": "\u0414\u0430\u0432\u0438\u0442 \u041a\u0430\u0440\u0430\u043f\u0435\u0442\u044f\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "karapetiandv"
+        }, 
+        {
+            "birthday": "07-16", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0427\u0438\u0447\u043a\u0430\u043d\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "chichkanov777"
+        }, 
+        {
+            "birthday": "07-24", 
+            "name": "\u041f\u0430\u0432\u0435\u043b \u041f\u043e\u043b\u0438\u0449\u0443\u043a", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "tur1st"
+        }, 
+        {
+            "birthday": "07-14", 
+            "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \u0410\u043d\u0434\u0440\u0438\u043a\u0435\u0435\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "vandrikeev"
+        }, 
+        {
+            "birthday": "10-15", 
+            "name": "\u0418\u0432\u0430\u043d \u0410\u043d\u0446\u0438\u0444\u0435\u0440\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "ivanantsiferov"
+        }, 
+        {
+            "birthday": "06-05", 
+            "name": "\u042e\u043b\u0438\u044f \u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "julia_tim"
+        }, 
+        {
+            "birthday": "02-18", 
+            "name": "\u0418\u0433\u043e\u0440\u044c \u0425\u043e\u043b\u043e\u043f\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "ig_kholopov"
+        }, 
+        {
+            "birthday": "03-31", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u0432\u044f\u0442\u0438\u043b\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "moggot68"
+        }, 
+        {
+            "birthday": "02-25", 
+            "name": "\u0414\u0430\u043d\u0438\u043b \u041a\u0430\u0448\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "danilkashin"
+        }, 
+        {
+            "birthday": "12-19", 
+            "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041c\u0430\u043d\u0436\u043e\u0441", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "nikolay_manzhos"
+        }, 
+        {
+            "birthday": "06-14", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0430\u0442\u0430\u043b\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "aleksandersh"
+        }, 
+        {
+            "birthday": "04-21", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041b\u0430\u0433\u0443\u0442\u0435\u043d\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "acbelter"
+        }, 
+        {
+            "birthday": "08-14", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u041f\u0435\u0441\u0442\u0440\u044f\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "maximpestryakov"
+        }, 
+        {
+            "birthday": "01-04", 
+            "name": "\u0422\u0430\u043c\u0430\u0440\u0430 \u0421\u0438\u043d\u0435\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "sinjvf"
+        }, 
+        {
+            "birthday": "10-30", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0411\u0435\u043b\u043e\u043a\u043e\u043d\u044c", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "belokon202"
+        }, 
+        {
+            "birthday": "03-06", 
+            "name": "\u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u0412\u043e\u043b\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "volkovitaly"
+        }, 
+        {
+            "birthday": "11-11", 
+            "name": "\u041d\u0438\u043a\u0438\u0442\u0430 \u0421\u0430\u043c\u0443\u0442\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "nikitasamutin"
+        }, 
+        {
+            "birthday": "12-16", 
+            "name": "\u0415\u043b\u0435\u043d\u0430 \u0421\u043e\u043b\u043e\u043d\u043e\u0432\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "alenasolo"
+        }, 
+        {
+            "birthday": "01-14", 
+            "name": "\u0415\u043b\u0435\u043d\u0430 \u0418\u043b\u044c\u044f\u0441\u0435\u0432\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "lenailyasevich"
+        }, 
+        {
+            "birthday": "06-22", 
+            "name": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u0425\u0438\u043b\u044c\u043a\u043e", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "khilkostas"
+        }, 
+        {
+            "birthday": "10-21", 
+            "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0420\u0443\u0431\u0430\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "mbalagan"
+        }, 
+        {
+            "birthday": "09-15", 
+            "name": "\u041b\u0438\u043b\u0438\u044f \u041b\u0438\u0441\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "llisova"
+        }, 
+        {
+            "birthday": "10-29", 
+            "name": "\u0424\u0451\u0434\u043e\u0440 \u041a\u043e\u0440\u0435\u043d\u0435\u0432\u0438\u0447", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "korenfff"
+        }, 
+        {
+            "birthday": "12-10", 
+            "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0413\u043b\u0443\u0445\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "andrey_glukhov"
+        }, 
+        {
+            "birthday": "04-03", 
+            "name": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u0411\u0443\u0442\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "victoriabutova"
+        }, 
+        {
+            "birthday": "08-23", 
+            "name": "\u0420\u043e\u043c\u0430\u043d \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "romabespaleva"
+        }, 
+        {
+            "birthday": "12-05", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0442\u0440\u0435\u043b\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "strelovdmitry"
+        }, 
+        {
+            "birthday": "09-10", 
+            "name": "\u0418\u0440\u0438\u043d\u0430 \u041c\u0435\u0442\u0446", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "tykovka_nyan"
+        }, 
+        {
+            "birthday": "08-12", 
+            "name": "\u041c\u0430\u0440\u0438\u044f \u0417\u0438\u043c\u0438\u043d\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "marywinter"
+        }, 
+        {
+            "birthday": "07-31", 
+            "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u041c\u0438\u0440\u043e\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "modustollens"
+        }, 
+        {
+            "birthday": "01-29", 
+            "name": "\u0420\u0435\u0433\u0438\u043d\u0430 \u0421\u043c\u0438\u0440\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "reginasmirnova"
+        }, 
+        {
+            "birthday": "01-05", 
+            "name": "\u0414\u0438\u0430\u043d\u0430 \u0422\u0440\u0443\u0444\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dianatrue"
+        }, 
+        {
+            "birthday": "05-26", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u0440\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "dmitriymarkov"
+        }, 
+        {
+            "birthday": "09-19", 
+            "name": "\u041e\u043b\u0435\u0433 \u0410\u043d\u043e\u0445\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "anokhn"
+        }, 
+        {
+            "birthday": "06-13", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044c\u044f\u043a\u043e\u0432", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "glmrvn"
+        }, 
+        {
+            "birthday": "01-29", 
+            "name": "\u041b\u0438\u0434\u0438\u044f \u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "liddysik"
+        }, 
+        {
+            "birthday": "03-13", 
+            "name": "\u0410\u043b\u0451\u043d\u0430 \u041c\u0430\u043d\u044e\u0445\u0438\u043d\u0430", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "aleien"
+        }, 
+        {
+            "birthday": "03-28", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041a\u0430\u0442\u043a\u0430\u043b\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "katkalov"
+        }, 
+        {
+            "birthday": "09-08", 
+            "name": "\u0410\u0440\u0442\u0451\u043c \u0414\u0430\u0443\u0433\u0435\u043b\u044c-\u0414\u0430\u0443\u0433\u0435", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "daugeldauge"
+        }, 
+        {
+            "birthday": "03-11", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "melnikov_s"
+        }, 
+        {
+            "birthday": "04-13", 
+            "name": "\u041b\u0435\u0440\u0430 \u0412\u043e\u043b\u043e\u0431\u043e\u0439", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "lera_voloboy"
+        }, 
+        {
+            "birthday": "08-01", 
+            "name": "\u0414\u0430\u0440\u044c\u044f \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "physteshka"
+        }, 
+        {
+            "birthday": "02-09", 
+            "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u041c\u0430\u043b\u043a\u043e\u0432", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "malkovko"
+        }, 
+        {
+            "birthday": "03-17", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0420\u0443\u0434\u0441\u043a\u043e\u0439", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "rudskoy"
+        }, 
+        {
+            "birthday": "10-22", 
+            "name": "\u0413\u0443\u0437\u0435\u043b\u044c \u0424\u0438\u043b\u0430\u0442\u043e\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "guzellezug"
+        }, 
+        {
+            "birthday": "08-10", 
+            "name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u041c\u0430\u043a\u0430\u0440\u044b\u0447\u0435\u0432\u0430", 
+            "roles": [
+                "junior-mentor", 
+                "manager"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "makarycheva"
+        }, 
+        {
+            "birthday": "09-06", 
+            "name": "\u0422\u0430\u0438\u0441\u0438\u044f \u0421\u0430\u043c\u0430\u0440\u0451\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "samareva"
+        }, 
+        {
+            "birthday": "11-02", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "sergey_dmitriev"
+        }, 
+        {
+            "birthday": "07-10", 
+            "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "buterik"
+        }, 
+        {
+            "birthday": "11-02", 
+            "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u043b\u0443\u0448\u043d\u0451\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "glushneva"
+        }, 
+        {
+            "birthday": "10-22", 
+            "name": "\u041e\u043b\u044c\u0433\u0430 \u0411\u043e\u0431\u043a\u043e\u0432\u0430", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "obobkova"
+        }, 
+        {
+            "birthday": "07-06", 
+            "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044c", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "katerinakorol"
+        }, 
+        {
+            "birthday": "06-06", 
+            "name": "\u041a\u0430\u0442\u044f \u0412\u044b\u0441\u043e\u043a\u043e\u0432\u0441\u043a\u0430\u044f", 
+            "roles": [
+                "junior-mentor"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "wwweidenbaum"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0430\u043f\u0442\u0435\u0440\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "kapterev"
+        }, 
+        {
+            "birthday": "07-31", 
+            "name": "\u041d\u0430\u0442\u0430\u043b\u0438\u044f \u0410\u043d\u0438\u043b\u0438\u043e\u043d\u0435\u043d\u0435", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "09-03", 
+            "name": "\u041e\u043b\u044c\u0433\u0430 \u041b\u0438\u043d\u043d\u0438\u043a", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "01-17", 
+            "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0420\u044f\u0431\u0446\u0435\u0432\u0430", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "telegram": "margarita_r"
+        }, 
+        {
+            "birthday": "04-12", 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0438\u043d\u043a\u0438\u043d", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "iiiii"
+        }, 
+        {
+            "birthday": "08-04", 
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u044c\u0435\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shmd"
+            ], 
+            "telegram": "fefa4ka"
+        }, 
+        {
+            "birthday": "05-24", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041d\u0438\u043a\u0438\u0442\u0438\u043d", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "nikitin_da"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0421\u0430\u0444\u043e\u043d\u043e\u0432", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": ""
+        }, 
+        {
+            "birthday": "04-10", 
+            "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041f\u0440\u0443\u0441\u0430\u043a\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "tehzarasthustra"
+        }, 
+        {
+            "birthday": "06-04", 
+            "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0410\u043a\u0438\u043c\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "deemidroll"
+        }, 
+        {
+            "birthday": "10-31", 
+            "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u041a\u043e\u0448\u0435\u043b\u044c", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "mkoshel"
+        }, 
+        {
+            "birthday": "03-27", 
+            "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u0435\u043c\u0451\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "semenovem"
+        }, 
+        {
+            "birthday": "06-20", 
+            "name": "\u041d\u0438\u043d\u0430 \u041b\u0435\u043e\u043d\u0438\u0434\u0438\u0441", 
+            "roles": [
+                "administrator"
+            ], 
+            "schools": [
+                "shri"
+            ], 
+            "telegram": "ninaleonidis"
+        }, 
+        {
+            "birthday": "10-01", 
+            "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0417\u0432\u0435\u0440\u0435\u043a", 
+            "roles": [
+                "teacher"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "natashazverek"
+        }, 
+        {
+            "birthday": "05-15", 
+            "name": "\u0410\u043d\u043d\u0430 \u041a\u043e\u0436\u0435\u0432\u0438\u043d\u0430", 
+            "roles": [
+                "administrator"
+            ], 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "telegram": "akozhevina"
+        }, 
+        {
+            "birthday": null, 
+            "name": "\u0410\u0440\u0442\u0451\u043c \u0413\u0438\u043b\u044c\u043c\u0443\u0434\u0438\u043d\u043e\u0432", 
+            "roles": [
+                "mentor"
+            ], 
+            "schools": [
+                "shnr"
+            ], 
+            "telegram": "guliashik"
+        }, 
+        {
+            "birthday": "11-22", 
+            "name": "\u0418\u0432\u0430\u043d \u0428\u0438\u0448\u043a\u0438\u043d", 
+            "roles": [
+                "student"
+            ], 
+            "schools": [
+                "shm"
+            ], 
+            "telegram": "shishkinii"
+        }
+    ], 
+    "places": [
+        {
+            "name": "\u042f\u043d\u0434\u0435\u043a\u0441", 
+            "objects": [
+                {
+                    "description": "\u0443\u043b. \u041b\u044c\u0432\u0430 \u0422\u043e\u043b\u0441\u0442\u043e\u0433\u043e, 16 ", 
+                    "lat": 55.73367, 
+                    "lon": 37.587874, 
+                    "name": "\u042f\u043d\u0434\u0435\u043a\u0441"
+                }
+            ]
+        }, 
+        {
+            "name": "\u041a\u0430\u0444\u0435 \u0440\u044f\u0434\u043e\u043c \u0441 \u042f\u043d\u0434\u0435\u043a\u0441\u043e\u043c", 
+            "objects": [
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e.\n\u0427\u0435\u043a: 900 \u0440\u0443\u0431.\n", 
+                    "lat": 55.735165, 
+                    "lon": 37.58552, 
+                    "name": "\u0416\u0430\u043d-\u0416\u0430\u043a"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 12 \u0434\u043e 6 \u0443\u0442\u0440\u0430.\n\u0427\u0435\u043a: 1500 \u0440\u0443\u0431. \n", 
+                    "lat": 55.735165, 
+                    "lon": 37.58552, 
+                    "name": "\u0414\u0436\u043e\u043d-\u0414\u043e\u043d\u043d"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 9 \u0434\u043e 22.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 22.\n\u0427\u0435\u043a: 150\u2013250 \u0440\u0443\u0431.\n", 
+                    "lat": 55.735165, 
+                    "lon": 37.58552, 
+                    "name": "\u0414\u0430\u0431\u043b\u0411\u0438"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 8 \u0434\u043e 23.\n\u0421\u0431\u2013\u0412\u0441: \u0441 9 \u0434\u043e 23.\n\u0427\u0435\u043a: 500\u20131000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.734241, 
+                    "lon": 37.589169, 
+                    "name": "Correa's"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 9 \u0434\u043e 22.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 22.\n\u0427\u0435\u043a: 1200\u20131500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.733904, 
+                    "lon": 37.58971, 
+                    "name": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d Fornetto"
+                }, 
+                {
+                    "description": "\u0411\u0443\u0434\u043d\u0438 \u0441 8 \u0434\u043e 20.\n\u0427\u0435\u043a: 300 \u0440\u0443\u0431.\n", 
+                    "lat": 55.733807, 
+                    "lon": 37.589869, 
+                    "name": "Prime Star "
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 9 \u0434\u043e 19.\n\u0427\u0435\u043a: 50\u2013150 \u0440\u0443\u0431.\n", 
+                    "lat": 55.732239, 
+                    "lon": 37.588962, 
+                    "name": "\u041a\u043e\u0444\u0435\u0439\u043d\u044f El-cafe"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 10 \u0434\u043e 24.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 24.\n\u0427\u0435\u043a: 1000\u20131500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.732151, 
+                    "lon": 37.589295, 
+                    "name": "Shaggy Dog"
+                }, 
+                {
+                    "description": "\u0412\u0441\u2013\u041f\u043d: \u0441 8 \u0434\u043e 24.\n\u041f\u0442\u2013\u0421\u0431: \u043a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e.\n\u0427\u0435\u043a: 1000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.734097, 
+                    "lon": 37.586772, 
+                    "name": "\u0418\u0437\u044f \u0413\u0440\u0438\u043b\u044c"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 7:30 \u0434\u043e 21.\n\u0421\u0431: \u0441 10 \u0434\u043e 21.\n\u0427\u0435\u043a: 300\u2013500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.734134, 
+                    "lon": 37.587019, 
+                    "name": "Starbucks"
+                }, 
+                {
+                    "description": "\u0412\u0441\u2013\u0427\u0442: \u0441 11 \u0434\u043e 23.\n\u041f\u0442: \u0441 11 \u0434\u043e 6 \u0443\u0442\u0440\u0430.\n\u0421\u0431: \u0441 11 \u0434\u043e 3 \u0443\u0442\u0440\u0430\n", 
+                    "lat": 55.734935, 
+                    "lon": 37.585707, 
+                    "name": "\u0414\u0436\u0435\u043b\u0430\u0442\u0435\u0440\u0438\u044f \u041f\u043b\u043e\u043c\u0431\u0438\u0440"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 11 \u0434\u043e 23.\n\u0427\u0435\u043a: 400 \u0440\u0443\u0431.\n", 
+                    "lat": 55.735506, 
+                    "lon": 37.58473, 
+                    "name": "BB&Burgers"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 8 \u0434\u043e 23.\n\u0427\u0435\u043a: 400\u2013500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.735702, 
+                    "lon": 37.586916, 
+                    "name": "\u041a\u0443\u043b\u0438\u043d\u0430\u0440\u043d\u0430\u044f \u043b\u0430\u0432\u043a\u0430 \u0431\u0440\u0430\u0442\u044c\u0435\u0432 \u041a\u0430\u0440\u0430\u0432\u0430\u0435\u0432\u044b\u0445"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 8 \u0434\u043e 18:30.\n\u0412\u0441: \u0441 9 \u0434\u043e 18:30\n", 
+                    "lat": 55.735273, 
+                    "lon": 37.587957, 
+                    "name": "Coffeeport"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 8 \u0434\u043e 22.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 22\n", 
+                    "lat": 55.734772, 
+                    "lon": 37.588764, 
+                    "name": "Wake Up Cafe"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 8 \u0434\u043e 21.\n\u0421\u0431\u2013\u0412\u0441: \u0441 10 \u0434\u043e 21\n", 
+                    "lat": 55.733204, 
+                    "lon": 37.592452, 
+                    "name": "\u041a\u043e\u0444\u0435\u0439\u043d\u044f \u0411\u043b\u044d\u043a \u041c\u0438\u043b\u043a"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u0412\u0441: \u0441 10 \u0434\u043e 23.\n\u0427\u0435\u043a: 500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.733314, 
+                    "lon": 37.59254, 
+                    "name": "\u041f\u0430\u043f\u0430 \u0414\u0436\u043e\u043d\u0441"
+                }
+            ]
+        }, 
+        {
+            "name": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u0440\u044f\u0434\u043e\u043c \u0441 \u042f\u043d\u0434\u0435\u043a\u0441\u043e\u043c", 
+            "objects": [
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e\n", 
+                    "lat": 55.731812, 
+                    "lon": 37.593395, 
+                    "name": "\u0410\u0435\u0434"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 09 \u0434\u043e 23\n", 
+                    "lat": 55.735383, 
+                    "lon": 37.588512, 
+                    "name": "\u0410\u0440\u0430\u0434\u0438\u0441"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e\n", 
+                    "lat": 55.731981, 
+                    "lon": 37.589689, 
+                    "name": "\u041c\u0430\u0433\u043d\u043e\u043b\u0438\u044f"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e\n", 
+                    "lat": 55.730112, 
+                    "lon": 37.590156, 
+                    "name": "\u0421\u0435\u0434\u044c\u043c\u043e\u0439 \u041a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e\n", 
+                    "lat": 55.733092, 
+                    "lon": 37.592285, 
+                    "name": "\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u043a\u0443\u0441\u0430"
+                }, 
+                {
+                    "description": "\u0411\u0443\u0434\u043d\u0438 \u0441 8 \u0434\u043e 20\n", 
+                    "lat": 55.735398, 
+                    "lon": 37.584467, 
+                    "name": "\u0421\u044a\u0435\u0441\u0442\u043d\u0430\u044f \u043b\u0430\u0432\u043a\u0430"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e\n", 
+                    "lat": 55.731379, 
+                    "lon": 37.592108, 
+                    "name": "24 \u0447\u0430\u0441\u0430"
+                }
+            ]
+        }, 
+        {
+            "name": "\u0425\u043e\u0441\u0442\u0435\u043b", 
+            "objects": [
+                {
+                    "description": "+7 (929) 693 07 33 ", 
+                    "lat": 55.764683, 
+                    "lon": 37.615407, 
+                    "name": "FriendHouse: http://friend-house.ru"
+                }
+            ]
+        }, 
+        {
+            "name": "\u041a\u0430\u0444\u0435 \u0440\u044f\u0434\u043e\u043c \u0441 \u0445\u043e\u0441\u0442\u0435\u043b\u043e\u043c", 
+            "objects": [
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 10 \u0434\u043e 23.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 22.\n\u0427\u0435\u043a: 400 \u0440\u0443\u0431.\n", 
+                    "lat": 55.764323, 
+                    "lon": 37.616351, 
+                    "name": "\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d\u043e\u0432\u044b\u0439 \u0433\u0443\u0441\u044c"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 11 \u0434\u043e 23.\n\u0421\u0431\u2013\u0412\u0441: \u0441 12 \u0434\u043e 24.\n\u0427\u0435\u043a: 470 \u0440\u0443\u0431. \n", 
+                    "lat": 55.763427, 
+                    "lon": 37.614788, 
+                    "name": "\u0422\u0440\u0430\u0442\u0442\u043e\u0440\u0438\u044f \u0412\u0435\u043d\u0435\u0446\u0438\u044f"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 9 \u0434\u043e 22.\n\u0421\u0431\u2013\u0412\u0441: \u0441 11 \u0434\u043e 22.\n\u0427\u0435\u043a: 300\u2013400 \u0440\u0443\u0431.\n", 
+                    "lat": 55.762961, 
+                    "lon": 37.619647, 
+                    "name": "\u0425\u0438\u043d\u043a\u0430\u043b\u044c\u043d\u0430\u044f"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 12 \u0434\u043e 24.\n\u0427\u0435\u043a: 1500\u20133000 \u0440\u0443\u0431. \n", 
+                    "lat": 55.766147, 
+                    "lon": 37.615075, 
+                    "name": "\u041a\u0438\u0442\u0451\u0436\u044c-\u0413\u0440\u0430\u0434"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u0427\u0442, \u0412\u0441: \u0441 11 \u0434\u043e 24.\n\u041f\u0442\u2013\u0421\u0431: \u0441 11 \u0434\u043e 6 \u0443\u0442\u0440\u0430.\n\u0427\u0435\u043a: 1500\u20132000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.766962, 
+                    "lon": 37.614276, 
+                    "name": "\u041c\u0430\u0440\u0442"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u0427\u0442, \u0412\u0441: \u0441 12 \u0434\u043e 24.\n\u041f\u0442\u2013\u0421\u0431: \u0441 12 \u0434\u043e 5 \u0443\u0442\u0440\u0430.\n\u0427\u0435\u043a: 1000\u20131500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.763315, 
+                    "lon": 37.615731, 
+                    "name": "Gogol Club"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 10 \u0434\u043e 23.\n\u0427\u0435\u043a: 1000\u20131500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.764121, 
+                    "lon": 37.615416, 
+                    "name": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0447\u0438\u043a \u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e.\n\u0427\u0435\u043a: 1500\u20132000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.763554, 
+                    "lon": 37.616629, 
+                    "name": "\u0428\u0435\u0440\u0431\u0435\u0442"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 6 \u0443\u0442\u0440\u0430 \u0434\u043e 24.\n\u0427\u0435\u043a: 150\u2013350 \u0440\u0443\u0431.\n", 
+                    "lat": 55.75896, 
+                    "lon": 37.610619, 
+                    "name": "\u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434\u0441"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 12 \u0434\u043e 24.\n\u0427\u0435\u043a: 1000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.759664, 
+                    "lon": 37.613485, 
+                    "name": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d Spices"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 10 \u0434\u043e 23.\n\u0427\u0435\u043a: \u043e\u0442 500 \u0440\u0443\u0431.\n", 
+                    "lat": 55.75896, 
+                    "lon": 37.610619, 
+                    "name": "\u041b\u0435\u043f\u0438\u043c \u0438 \u0432\u0430\u0440\u0438\u043c"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 11 \u0434\u043e 24.\n\u0427\u0435\u043a: 1500\u20132000 \u0440\u0443\u0431.\n", 
+                    "lat": 55.763554, 
+                    "lon": 37.616629, 
+                    "name": "Haggis Pub & Kitchen"
+                }, 
+                {
+                    "description": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e.\n\u0427\u0435\u043a: \u043e\u0442 900 \u0440\u0443\u0431.\n", 
+                    "lat": 55.763315, 
+                    "lon": 37.615731, 
+                    "name": "Originals Pub"
+                }, 
+                {
+                    "description": "\u041f\u043d\u2013\u041f\u0442: \u0441 9 \u0434\u043e 23.\n\u0421\u0431\u2013\u0412\u0441: \u0441 10 \u0434\u043e 22.\n\u0427\u0435\u043a:  250-400 \u0440\u0443\u0431.\n\u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430, 9 \u0441\u0442\u0440. 1. ", 
+                    "lat": 55.761355, 
+                    "lon": 37.614294, 
+                    "name": "\u041c\u0443-\u041c\u0443"
+                }
+            ]
+        }, 
+        {
+            "name": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u0440\u044f\u0434\u043e\u043c \u0441 \u0445\u043e\u0441\u0442\u0435\u043b\u043e\u043c", 
+            "objects": [
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 08 \u0434\u043e 22\n", 
+                    "lat": 55.76486, 
+                    "lon": 37.616018, 
+                    "name": "\u0410\u0437\u0431\u0443\u043a\u0430 \u0412\u043a\u0443\u0441\u0430"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 08 \u0434\u043e 23\n", 
+                    "lat": 55.765615, 
+                    "lon": 37.615578, 
+                    "name": "\u041f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043e\u043a \u042d\u043a\u0441\u043f\u0440\u0435\u0441\u0441"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 08 \u0434\u043e 23\n", 
+                    "lat": 55.76603, 
+                    "lon": 37.613557, 
+                    "name": "\u041f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043e\u043a \u042d\u043a\u0441\u043f\u0440\u0435\u0441\u0441"
+                }, 
+                {
+                    "description": "", 
+                    "lat": 55.76527, 
+                    "lon": 37.615964, 
+                    "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442"
+                }, 
+                {
+                    "description": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0441 11 \u0434\u043e 23\n", 
+                    "lat": 55.765615, 
+                    "lon": 37.615578, 
+                    "name": "LavkaLavka"
+                }
+            ]
+        }, 
+        {
+            "name": "\u0413\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u044f\u0442 \u0437\u0430\u043d\u044f\u0442\u0438\u044f", 
+            "objects": []
+        }, 
+        {
+            "name": "\u0413\u0434\u0435 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c", 
+            "objects": []
+        }
+    ], 
+    "schedule": [
+        {
+            "duration": 9.0, 
+            "location": "\u042d\u043a\u0441\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u041b\u043e\u043b\u0430 \u041a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0438\u043d\u0441\u043a\u0430\u044f", 
+                "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0417\u0432\u0435\u0440\u0435\u043a"
+            ], 
+            "time": "2017-07-03 10:00:00+0300", 
+            "title": "\u041e\u0442\u043a\u0440\u044b\u0442\u0438\u0435"
+        }, 
+        {
+            "duration": 0.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0435\u0440\u0435\u0436\u043d\u043e\u0439"
+            ], 
+            "time": "2017-07-04 19:00:00+0300", 
+            "title": "\u0412\u0441\u0442\u0443\u043f\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043b\u0435\u043a\u0446\u0438\u044f \u043e\u0442 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u0428\u043a\u043e\u043b\u044b (\u0428\u0420\u0418)"
+        }, 
+        {
+            "duration": 3.05, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0418\u0432\u0430\u043d\u043e\u0432"
+            ], 
+            "time": "2017-07-04 19:00:00+0300", 
+            "title": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u0432 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u0445 \u0438 \u043e\u0442\u0432\u0435\u0442\u0430\u0445. \u0422\u0440\u0435\u043d\u0434\u044b \u0432 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0438"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0448\u043a\u043e\u043b\u044b"
+            ], 
+            "time": "2017-07-04 19:00:00+0300", 
+            "title": "\u0412\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u0435\u043a\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 2.8, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0415\u043b\u0435\u043d\u0430 \u0414\u0435\u043c\u0435\u043d\u0442\u044c\u0435\u0432\u0430"
+            ], 
+            "time": "2017-07-04 19:15:00+0300", 
+            "title": "\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0430\u044f \u0432\u0451\u0440\u0441\u0442\u043a\u0430"
+        }, 
+        {
+            "duration": 2.55, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u0430\u044e\u0448\u043a\u0438\u043d"
+            ], 
+            "time": "2017-07-04 19:30:00+0300", 
+            "title": "MyNewApp"
+        }, 
+        {
+            "duration": 2.05, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0448\u043a\u043e\u043b\u044b"
+            ], 
+            "time": "2017-07-04 20:00:00+0300", 
+            "title": "\u0412\u0432\u043e\u0434\u043d\u0430\u044f \u043b\u0435\u043a\u0446\u0438\u044f (\u0428\u041c\u0414)"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0410\u043d\u0442\u043e\u043d \u0422\u0435\u043d", 
+                "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0412\u0430\u0441\u044e\u043d\u0438\u043d"
+            ], 
+            "time": "2017-07-05 19:00:00+0300", 
+            "title": "\u0412\u043e\u0440\u043a\u0448\u043e\u043f. \u0416\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0446\u0438\u043a\u043b \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0415\u043b\u0435\u043d\u0430 \u041a\u0430\u043b\u0430\u043c\u0431\u0435\u0442"
+            ], 
+            "time": "2017-07-05 20:00:00+0300", 
+            "title": "\u041a\u0430\u043a \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0434\u0430\u043a\u0442-\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0443"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0418\u043b\u044c\u044f \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432"
+            ], 
+            "time": "2017-07-06 19:00:00+0300", 
+            "title": "\u041a\u0430\u043a \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b"
+        }, 
+        {
+            "duration": 4.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u041a\u0438\u0442", 
+            "schools": [
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432"
+            ], 
+            "time": "2017-07-06 19:00:00+0300", 
+            "title": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 git \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u044b workflow"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u042e\u0440\u0438\u0439 \u041f\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439"
+            ], 
+            "time": "2017-07-06 20:30:00+0300", 
+            "title": "\u041e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u043e\u043c \u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0438"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u0446\u043a\u0435\u0432\u0438\u0447"
+            ], 
+            "time": "2017-07-07 19:00:00+0300", 
+            "title": "Brain science. Behavioral engineering"
+        }, 
+        {
+            "duration": 9.0, 
+            "location": "\u0421\u0442\u0435\u043d\u0444\u043e\u0440\u0434, \u041a\u0435\u043c\u0431\u0440\u0438\u0434\u0436", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u042d\u0434\u0443\u0430\u0440\u0434 \u041c\u0438\u0448\u0438\u043d"
+            ], 
+            "time": "2017-07-08 11:00:00+0300", 
+            "title": "\u0425\u0430\u043a\u0430\u0442\u043e\u043d"
+        }, 
+        {
+            "duration": 5.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0418\u0432\u0430\u043d \u0417\u0430\u043c\u0435\u0441\u0438\u043d"
+            ], 
+            "time": "2017-07-08 11:00:00+0300", 
+            "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f"
+        }, 
+        {
+            "duration": 0.0, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0448\u043a\u043e\u043b\u044b"
+            ], 
+            "time": "2017-07-08 12:00:00+0300", 
+            "title": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0441\u0442\u043e\u043b (\u0428\u041c\u0414)"
+        }, 
+        {
+            "duration": 5.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0425\u0430\u0440\u0438\u0442\u043e\u043d \u041c\u0430\u0442\u0432\u0435\u0435\u0432"
+            ], 
+            "time": "2017-07-09 10:00:00+0300", 
+            "title": "\u0412\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432. \u041a\u0430\u043a \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043a\u0443\u043f\u0438\u043b\u0438, \u043d\u043e \u043d\u0435 \u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0434 \u0428\u043c\u044b\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-10 19:00:00+0300", 
+            "title": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u044b\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u043c \u0432\u0432\u043e\u0434\u043e\u043c\n(\u0447\u0430\u0441\u0442\u044c 1)"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u041e\u043b\u0435\u0433 \u042f\u043a\u0443\u0431\u0435\u043d\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-10 19:00:00+0300", 
+            "title": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0441\u0442\u043e\u043b (\u043f\u0440\u043e\u0434\u0443\u043a\u0442, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430, growth hacks)"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0422\u0435\u0440\u043d\u043e\u0432\u044b\u0445"
+            ], 
+            "time": "2017-07-10 19:00:00+0300", 
+            "title": "\u041b\u0435\u043a\u0446\u0438\u044f. \u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u043e\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-10 19:00:00+0300", 
+            "title": "Activity & Fragment"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0429\u0435\u0440\u0431\u0438\u043d\u0438\u043d"
+            ], 
+            "time": "2017-07-10 20:30:00+0300", 
+            "title": "View"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0422\u0435\u0440\u043d\u043e\u0432\u044b\u0445"
+            ], 
+            "time": "2017-07-11 19:00:00+0300", 
+            "title": "\u0412\u043e\u0440\u043a\u0448\u043e\u043f. \u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0439 \u041c\u043e\u0438\u0441\u0435\u0435\u043d\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-11 19:00:00+0300", 
+            "title": "\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u0430\u044f \u043b\u0435\u043a\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432"
+            ], 
+            "time": "2017-07-11 19:00:00+0300", 
+            "title": "Background"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u041c\u0438\u0445\u0430\u0438\u043b \u0412\u044b\u0441\u043e\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+            ], 
+            "time": "2017-07-11 20:30:00+0300", 
+            "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0418\u043b\u044c\u044f \u041c\u043e\u0437\u0435\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-11 20:30:00+0300", 
+            "title": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043e\u0442\u043b\u0430\u0434\u043a\u0438"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0418\u0441\u043c\u0430\u0433\u0438\u043b\u043e\u0432"
+            ], 
+            "time": "2017-07-12 19:00:00+0300", 
+            "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430. \u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0441\u0431\u043e\u0440\u0430 \u0438 \u0432\u0438\u0437\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0434 \u0428\u043c\u044b\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-12 19:00:00+0300", 
+            "title": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u044b\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u043c \u0432\u0432\u043e\u0434\u043e\u043c (\u0447\u0430\u0441\u0442\u044c 2)"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0415\u043b\u0435\u043d\u0430 \u0414\u0435\u043c\u0435\u043d\u0442\u044c\u0435\u0432\u0430"
+            ], 
+            "time": "2017-07-13 19:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0440 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0442\u043a\u0430\u00bb"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0415\u043b\u0435\u043d\u0430 \u0411\u0443\u0431\u043d\u043e\u0432\u0430"
+            ], 
+            "time": "2017-07-13 19:00:00+0300", 
+            "title": "\u041c\u0435\u0442\u0440\u0438\u043a\u0438, KPI, \u0434\u0430\u0448\u0431\u043e\u0440\u0434\u044b, \u043e\u0446\u0435\u043d\u043a\u0430 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439. \u041f\u0440\u0438\u043d\u044f\u0442\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0439 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0434\u0430\u043d\u043d\u044b\u0445"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u043e\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-13 19:00:00+0300", 
+            "title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0427\u0435\u043c\u0435\u0440\u0438\u0441"
+            ], 
+            "time": "2017-07-14 19:00:00+0300", 
+            "title": "\u041b\u0435\u043a\u0446\u0438\u044f (\u0428\u041c\u0414)"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430", 
+                "\u041c\u0438\u0445\u0430\u0438\u043b \u0429\u0435\u0433\u043b\u043e\u0432", 
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0412\u043e\u043b\u043e\u0434\u0438\u043d", 
+                "\u0418\u043b\u044c\u044f \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432"
+            ], 
+            "time": "2017-07-14 19:00:00+0300", 
+            "title": "\u0413\u0438\u0431\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441\u0435"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041b\u0443\u043a\u0438\u043d", 
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0443\u043b\u0430\u0447\u0438\u043a\u043e\u0432\u0430"
+            ], 
+            "time": "2017-07-15 12:00:00+0300", 
+            "title": "\u041c\u0435\u0442\u0440\u0438\u043a\u0430 \u0438 AppMetrika"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u043e\u0440\u0443\u0437", 
+                "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0411\u0440\u044f\u043d\u0446\u0435\u0432"
+            ], 
+            "time": "2017-07-15 12:00:00+0300", 
+            "title": "\u041b\u0435\u043a\u0446\u0438\u044f+\u0412\u043e\u0440\u043a\u0448\u043e\u043f\n\u0411\u0440\u0435\u043d\u0434\u0438\u043d\u0433 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u041c\u0430\u043a\u0441\u0438\u043c \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432"
+            ], 
+            "time": "2017-07-17 19:00:00+0300", 
+            "title": "\u041c\u0443\u043b\u044c\u0442\u0438\u043c\u0435\u0434\u0438\u0430: \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430"
+            ], 
+            "time": "2017-07-17 19:00:00+0300", 
+            "title": "\u041f\u0440\u043e\u0434\u0436\u0435\u043a\u0442 \u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0424\u0451\u0434\u043e\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-17 19:00:00+0300", 
+            "title": "\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439"
+            ], 
+            "time": "2017-07-18 19:00:00+0300", 
+            "title": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0441\u0435\u0431\u044f \u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u041a\u0438\u0440\u0438\u043b\u043b \u0411\u043e\u0440\u0438\u0441\u043e\u0432"
+            ], 
+            "time": "2017-07-19 19:00:00+0300", 
+            "title": "\u0417\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u0430\u0432\u0442\u043e\u0442\u0435\u0441\u0442\u0430\u043c\u0438"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0435\u0440\u0435\u0436\u043d\u043e\u0439"
+            ], 
+            "time": "2017-07-19 19:00:00+0300", 
+            "title": "\u041d\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0435\u0431-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u0445"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0430\u043a\u0443\u043d\u043e\u0432"
+            ], 
+            "time": "2017-07-19 19:00:00+0300", 
+            "title": "\u0412\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0430\u043c\u0438"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0434 \u0428\u043c\u044b\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-20 18:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0440 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u044b\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u043c \u0432\u0432\u043e\u0434\u043e\u043c\u00bb"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u041b\u0438\u0437\u0430 \u0421\u0435\u043c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
+            ], 
+            "time": "2017-07-20 19:00:00+0300", 
+            "title": "\u041a\u0430\u043a \u043c\u044b \u0434\u0435\u043b\u0430\u043b\u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0424\u0451\u0434\u043e\u0440\u043e\u0432"
+            ], 
+            "time": "2017-07-20 19:00:00+0300", 
+            "title": "\u0412\u043e\u0440\u043a\u0448\u043e\u043f. \u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0414\u0430\u0440\u044c\u044f \u0421\u0442\u0430\u0440\u0438\u0446\u044b\u043d\u0430"
+            ], 
+            "time": "2017-07-21 19:00:00+0300", 
+            "title": "\u0412\u043e\u0440\u043a\u0448\u043e\u043f. \u041f\u0440\u043e\u0442\u043e\u0442\u0438\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0410\u0433\u0430\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-21 19:00:00+0300", 
+            "title": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u044f \u0432 \u042f\u043d\u0434\u0435\u043a\u0441\u0435. \u0411\u044b\u0441\u0442\u0440\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0438 \u043d\u0430\u0434\u0451\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043d\u0442\u043e\u043d \u041a\u0430\u0440\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-21 20:30:00+0300", 
+            "title": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430"
+        }, 
+        {
+            "duration": 4.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0418\u043b\u044c\u044f \u041a\u0440\u0430\u0441\u0438\u043d\u0441\u043a\u0438\u0439"
+            ], 
+            "time": "2017-07-22 11:00:00+0300", 
+            "title": "\u042e\u043d\u0438\u0442-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u0438\u043b\u0438 \u043f\u043e\u0438\u0441\u043a \u0442\u043e\u0447\u0435\u043a \u043a\u0440\u0430\u0442\u043d\u043e\u0433\u043e \u0440\u043e\u0441\u0442\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0448\u043a\u043e\u043b\u044b"
+            ], 
+            "time": "2017-07-22 12:00:00+0300", 
+            "title": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0441\u0442\u043e\u043b"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u042d\u043a\u0441\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0430\u043f\u0442\u0435\u0440\u0435\u0432"
+            ], 
+            "time": "2017-07-23 11:00:00+0300", 
+            "title": "\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438. \u041d\u0430\u0432\u044b\u043a\u0438 \u0432\u044b\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0418\u043b\u043b\u0430\u0440\u0438\u043e\u043d \u0413\u043e\u0440\u0434\u043e\u043d"
+            ], 
+            "time": "2017-07-24 19:00:00+0300", 
+            "title": "\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041d\u0430\u0441\u0435\u0434\u0438\u043d"
+            ], 
+            "time": "2017-07-24 19:00:00+0300", 
+            "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u042f\u043d\u0434\u0435\u043a\u0441\u0435"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0420\u0443\u0441\u0442\u0430\u043c \u0421\u0438\u043d\u044e\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-24 19:00:00+0300", 
+            "title": "RXJava"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0410\u043d\u0434\u0440\u0438\u044f\u043d\u043e\u0432"
+            ], 
+            "time": "2017-07-24 19:00:00+0300", 
+            "title": "\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f: \u0431\u0430\u0437\u043e\u0432\u044b\u0435 \u0437\u043d\u0430\u043d\u0438\u044f \u0438 \u043b\u0443\u0447\u0448\u0438\u0435 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0438"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0435\u0432"
+            ], 
+            "time": "2017-07-24 20:30:00+0300", 
+            "title": "\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f: \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0422\u0430\u0433\u0430\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-24 20:30:00+0300", 
+            "title": "Basic storage (Assets, Preferences, Parcel)"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0412\u0438\u043a\u0442\u043e\u0440 \u041b\u0430\u043c\u0431\u0443\u0440\u0442"
+            ], 
+            "time": "2017-07-25 19:00:00+0300", 
+            "title": "\u0421\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0441 \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u043c \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435\u043c"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u041c\u0430\u043a\u0441\u0438\u043c \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432"
+            ], 
+            "time": "2017-07-25 19:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0440 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u041c\u0443\u043b\u044c\u0442\u0438\u043c\u0435\u0434\u0438\u0430: \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430\u00bb"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u043c, \u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-25 19:00:00+0300", 
+            "title": "Advanced storage (\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445)"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u043c, \u0412\u0430\u0441\u0438\u043b\u0438\u0439 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-25 20:30:00+0300", 
+            "title": "Advanced storage (ContentProvider)"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0412\u0435\u0440\u0445\u043e\u043b\u0430\u043d\u0446\u0435\u0432"
+            ], 
+            "time": "2017-07-26 19:00:00+0300", 
+            "title": "\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0432\u0435\u0431-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432"
+        }, 
+        {
+            "duration": 0.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0416\u0434\u0430\u043d \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432"
+            ], 
+            "time": "2017-07-26 19:00:00+0300", 
+            "title": "\u0412\u043e\u0440\u043a\u0448\u043e\u043f. \u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0411\u044b\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-26 19:00:00+0300", 
+            "title": "\u041e\u0441\u043d\u043e\u0432\u044b UI/UX. \u0414\u0438\u0437\u0430\u0439\u043d \u0434\u043b\u044f \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u043e\u0432"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0412\u0435\u0440\u0445\u043e\u043b\u0430\u043d\u0446\u0435\u0432"
+            ], 
+            "time": "2017-07-26 20:30:00+0300", 
+            "title": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u0444\u0440\u043e\u043d\u0442\u0435\u043d\u0434\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u041e\u043b\u0435\u0433 \u041b\u0435\u0432\u0447\u0443\u043a"
+            ], 
+            "time": "2017-07-27 19:00:00+0300", 
+            "title": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u043f\u0440\u043e\u0442\u043e\u0442\u0438\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0417\u0430\u0439\u0446\u0435\u0432"
+            ], 
+            "time": "2017-07-27 19:00:00+0300", 
+            "title": "\u0421\u043f\u0438\u0441\u043a\u0438"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0416\u0443\u043a\u043e\u0432"
+            ], 
+            "time": "2017-07-28 19:00:00+0300", 
+            "title": "Services & Broadcasts"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0410\u043d\u0434\u0440\u0435\u0439 \u0413\u0435\u0432\u0430\u043a"
+            ], 
+            "time": "2017-07-28 19:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0435\u0440\u0435\u0436\u043d\u043e\u0439"
+            ], 
+            "time": "2017-07-28 19:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0440 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u041d\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0435\u0431-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u0445\u00bb"
+        }, 
+        {
+            "duration": 1.5, 
+            "location": "\u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u0435\u043d\u0438\u0441 \u0417\u0430\u0433\u0430\u0435\u0432\u0441\u043a\u0438\u0439"
+            ], 
+            "time": "2017-07-28 20:30:00+0300", 
+            "title": "Support Library"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u042d\u043a\u0441\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u043d\u0438\u043b\u0438\u043e\u043d\u0435\u043d\u0435", 
+                "\u041e\u043b\u044c\u0433\u0430 \u041b\u0438\u043d\u043d\u0438\u043a"
+            ], 
+            "time": "2017-07-29 11:00:00+0300", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0420\u044f\u0431\u0446\u0435\u0432\u0430", 
+                "\u041e\u043b\u044c\u0433\u0430 \u0420\u0436\u0430\u043d\u043e\u0432\u0430"
+            ], 
+            "time": "2017-07-30 11:00:00+0300", 
+            "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u043a\u0440\u0443\u0448\u0438\u043d"
+            ], 
+            "time": "2017-07-31 19:00:00+0300", 
+            "title": "\u041e\u0444\u0444\u043b\u0430\u0439\u043d, \u043a\u044d\u0448\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0441\u0435\u0440\u0432\u0438\u0441 \u0432\u0435\u0440\u043a\u0435\u0440\u044b"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432"
+            ], 
+            "time": "2017-07-31 19:00:00+0300", 
+            "title": "\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433. \u0411\u0440\u0435\u043d\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0438"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0410\u043d\u0442\u043e\u043d \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432"
+            ], 
+            "time": "2017-07-31 19:00:00+0300", 
+            "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u0438\u0437\u0430\u0439\u043d\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0413\u0430\u0440\u0432\u0430\u0440\u0434", 
+            "schools": [
+                "shmd"
+            ], 
+            "teacher": [
+                "\u0418\u043b\u044c\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432"
+            ], 
+            "time": "2017-08-01 19:00:00+0300", 
+            "title": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0432\u0438\u0440\u0438\u0445\u0438\u043d"
+            ], 
+            "time": "2017-08-01 19:00:00+0300", 
+            "title": "Advanced UI"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u0412\u0430\u0440\u0432\u0430\u0440\u0430 \u0421\u0435\u043c\u0435\u043d\u0438\u0445\u0438\u043d\u0430"
+            ], 
+            "time": "2017-08-01 19:00:00+0300", 
+            "title": "\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433. \u041f\u0435\u0440\u0444\u043e\u043c\u0430\u043d\u0441 \u0438 \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f"
+        }, 
+        {
+            "duration": 1.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u0435\u0432"
+            ], 
+            "time": "2017-08-01 19:00:00+0300", 
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0440 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f\u00bb"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shmd", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0430\u0434\u0430\u043d\u0435\u0440"
+            ], 
+            "time": "2017-08-02 19:00:00+0300", 
+            "title": "\u0422\u0435\u043a\u0441\u0442\u044b \u0432 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430\u0445"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u0421\u0438\u043d\u0438\u0439 \u043a\u0438\u0442", 
+            "schools": [
+                "shnr"
+            ], 
+            "teacher": [
+                "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041d\u0438\u043a\u0438\u0442\u0438\u043d"
+            ], 
+            "time": "2017-08-03 19:00:00+0300", 
+            "title": "Modern Android Application"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u041f\u0430\u0432\u0435\u043b \u0411\u044b\u0432\u0448\u0438\u0445"
+            ], 
+            "time": "2017-08-03 19:00:00+0300", 
+            "title": "\u0421\u0430\u043f\u043f\u043e\u0440\u0442"
+        }, 
+        {
+            "duration": 2.0, 
+            "location": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434", 
+            "schools": [
+                "shri"
+            ], 
+            "teacher": [
+                "\u0410\u043d\u0434\u0440\u0435\u0439 \u0415\u0432\u0441\u0442\u0440\u043e\u043f\u043e\u0432"
+            ], 
+            "time": "2017-08-03 19:00:00+0300", 
+            "title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0431 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. Testability"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm"
+            ], 
+            "teacher": [
+                "\u042e\u043b\u0438\u044f \u0411\u0430\u0431\u0438\u043a\u043e\u0432\u0430"
+            ], 
+            "time": "2017-08-04 19:00:00+0300", 
+            "title": "PR"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u041c\u0443\u043b\u0435\u043d \u0440\u0443\u0436", 
+            "schools": [
+                "shm", 
+                "shnr", 
+                "shri"
+            ], 
+            "teacher": [
+                "\u041c\u0430\u0440\u0438\u044f \u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0430"
+            ], 
+            "time": "2017-08-05 11:00:00+0300", 
+            "title": "\u041f\u0440\u043e \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438"
+        }, 
+        {
+            "duration": 3.0, 
+            "location": "\u042d\u043a\u0441\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441", 
+            "schools": [
+                "shm", 
+                "shmd"
+            ], 
+            "teacher": [
+                "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0420\u044f\u0431\u0446\u0435\u0432\u0430", 
+                "\u041e\u043b\u044c\u0433\u0430 \u0420\u0436\u0430\u043d\u043e\u0432\u0430"
+            ], 
+            "time": "2017-08-07 19:00:00+0300", 
+            "title": "\u041c\u0430\u0441\u0442\u0435\u0440-\u043a\u043b\u0430\u0441\u0441 \u043f\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u043c \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432"
+        }
+    ]
+}

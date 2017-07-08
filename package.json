@@ -1,0 +1,35 @@
+{
+  "name": "yandex.hategram.server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/start",
+  "scripts": {
+    "start": "node bin/start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasd97/Yandex.Hategram.Server.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "Yamblz_Hack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasd97/Yandex.Hategram.Server/issues"
+  },
+  "homepage": "https://github.com/sasd97/Yandex.Hategram.Server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "joi": "^10.5.0",
+    "jsonwebtoken": "^7.4.1",
+    "logger-utils": "^1.0.0",
+    "mongoose": "^4.10.1",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "7.9.0"
+  }
+}
