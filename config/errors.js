@@ -6,10 +6,10 @@ module.exports = {
 		statusCode: 500,
 		code: 1
 	},
-	EMAIL_IN_USE: {
-		message: 'Provide another user email',
+	QUESTION_NOT_FOUND: {
+		message: 'Provide another question id. Question not found',
 		customError: true,
-		statusCode: 500,
+		statusCode: 404,
 		code: 2
 	},
 	BAD_REQUEST: {
@@ -33,13 +33,7 @@ module.exports = {
 	USER_NOT_FOUND: {
 		message: 'User was not found or does not exist',
 		customError: true,
-		statusCode: 500,
+		statusCode: 404,
 		code: 6
-	},
-	EMAIL_NOT_CONFIRMED: {
-		message: 'The email was not confirmed',
-		customError: true,
-		statusCode: 500,
-		code: 7
 	}
 };

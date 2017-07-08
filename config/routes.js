@@ -10,6 +10,7 @@ module.exports = {
 	},
 	questions: {
 		getQuestions: '/questions',
-		addQuestion: '/questions/add'
+		addQuestion: '/questions/add',
+		getQuestion: '/questions/get'
 	}
 };

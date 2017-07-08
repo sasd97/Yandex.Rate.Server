@@ -17,6 +17,7 @@ class QuestionsController extends BaseController {
 		super._onBind();
 		this.getQuestions = this.getQuestions.bind(this);
 		this.addQuestion = this.addQuestion.bind(this);
+		this.getQuestion = this.getQuestion.bind(this);
 	}
 
 	getQuestions(req, res, next) {
@@ -68,9 +69,38 @@ class QuestionsController extends BaseController {
 			.findByNick(nick)
 			.then(user => {
 				if (!user) throw errorConfig.USER_NOT_FOUND;
+				//todo: lock
 				return this.questionsManager.create(user.id, description);
 			})
 			.then(question => {
+				return {
+					id: question.id,
+					description: question.description,
+					likes: question.likes,
+					dislikes: question.dislikes
+				};
+			})
+			.then(questions => this.success(res, questions))
+			.catch(error => this.error(res, error));
+	}
+
+	getQuestion(req, res, next) {
+		const schema = Joi.object().keys({
+			id: Joi.string().required(),
+			token: Joi.string().required()
+		});
+
+		const validationResult = this.validate(req, schema);
+		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+
+		const { id } = req.query;
+
+		return this
+			.questionsManager
+			.findById(id)
+			.then(question => {
+				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
+
 				return {
 					id: question.id,
 					description: question.description,

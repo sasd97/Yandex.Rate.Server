@@ -13,6 +13,11 @@ class QuestionManager extends AppUnit {
 		this.create = this.create.bind(this);
 		this.count = this.count.bind(this);
 		this.getQuestions = this.getQuestions.bind(this);
+		this.findById = this.findById.bind(this);
+	}
+
+	findById(questionId) {
+		return this.questionModel.findOne({ _id: questionId }).exec();
 	}
 
 	create(userId, description) {
