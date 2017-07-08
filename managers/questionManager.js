@@ -72,7 +72,12 @@ class QuestionManager extends AppUnit {
 
 				if (!likeQuery && dislikeQuery) {
 					_.extend(query['$inc'], { dislikes: -1 });
-					_.extend(query['$pop'], { dislikers: userId });
+					if (query['$pop']) {
+						query['$pop'].dislikers = userId;
+					} else {
+						query['$pop'] = {};
+						query['$pop'].dislikers = userId;
+					}
 				}
 
 				return this.questionModel
@@ -94,7 +99,12 @@ class QuestionManager extends AppUnit {
 
 				if (!dislikeQuery && likeQuery) {
 					_.extend(query['$inc'], { likes: -1 });
-					_.extend(query['$pop'], { likers: userId });
+					if (query['$pop']) {
+						query['$pop'].likers = userId;
+					} else {
+						query['$pop'] = {};
+						query['$pop'].likers = userId;
+					}
 				}
 
 				return this.questionModel
