@@ -6,6 +6,7 @@ module.exports = mongoose => {
 	const userSchema = new Schema({
 		nick: {
 			type: String,
+			unique: true,
 			required: true
 		},
 		name: {
@@ -22,7 +23,7 @@ module.exports = mongoose => {
 		},
 		isActive: {
 			type: Boolean,
-			default: false
+			default: true
 		},
 		creationDate: {
 			type: Date,

@@ -53,6 +53,7 @@ class AppRoutes extends AppUnit {
 	}
 
 	registerUsers(app, paths, controller) {
+		app.get(paths.authorize, controller.authorize);
 	}
 
 	registerQuestion(app, paths, controller) {

@@ -38,6 +38,10 @@ class UserManager extends AppUnit {
 	findByIdAndNick(userId, nick) {
 		return this.userModel.findOne({ userId, nick });
 	}
+
+	findByCredentials(nick) {
+		return this.userModel.findOne({ nick }).exec();
+	}
 }
 
 module.exports = UserManager;

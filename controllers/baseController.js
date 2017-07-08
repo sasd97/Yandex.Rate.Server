@@ -21,7 +21,7 @@ class BaseController extends AppUnit {
 	}
 
 	error(res, error) {
-		res.json(this.responseModel(false, null, error, true));
+		res.json(error);
 	}
 
 	publish(res, status, obj) {
@@ -31,12 +31,12 @@ class BaseController extends AppUnit {
 
 	success(res, obj) {
 		res.status(200);
-		res.json(this.responseModel(true, obj));
+		res.json(obj);
 	}
 
 	unsuccess(res, obj) {
 		res.status(500);
-		res.json(this.responseModel(false, obj));
+		res.json(obj);
 	}
 
 	responseModel(success, response, error, isError = false) {
