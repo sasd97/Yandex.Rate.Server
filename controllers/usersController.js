@@ -72,6 +72,7 @@ class UsersController extends BaseController {
 			.then(promises => {
 				return Promise.all(promises);
 			})
+			.then(users => _.sortBy(users, user => user.name))
 			.then(users => this.success(res, users))
 			.catch(error => this.error(res, error));
 	}
