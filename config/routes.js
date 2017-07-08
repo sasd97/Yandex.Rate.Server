@@ -2,9 +2,9 @@
 
 module.exports = {
 	users: {
-		authorize: '/users/authorize',
+		authorize: '/auth',
 		getAll: '/users/all',
-		profile: '/users/profile'
+		profile: '/profile'
 	},
 	questions: {
 	}
