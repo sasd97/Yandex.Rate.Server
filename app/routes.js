@@ -54,6 +54,7 @@ class AppRoutes extends AppUnit {
 
 	registerUsers(app, paths, controller) {
 		app.get(paths.authorize, controller.authorize);
+		app.get(paths.profile, this.authorizationMiddleware, controller.profile);
 		app.get(paths.getAll, this.authorizationMiddleware, controller.getAll);
 	}
 

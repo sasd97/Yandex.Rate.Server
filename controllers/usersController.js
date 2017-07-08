@@ -2,6 +2,7 @@
 
 const BaseController = require('./baseController');
 
+const _ = require('underscore');
 const Joi = require('joi');
 
 const userResponseProjector = require('../models/response/userResponseModel');
@@ -17,6 +18,7 @@ class UsersController extends BaseController {
 		super._onBind();
 		this.authorize = this.authorize.bind(this);
 		this.getAll = this.getAll.bind(this);
+		this.profile = this.profile.bind(this);
 	}
 
 	authorize(req, res, next) {
@@ -64,6 +66,14 @@ class UsersController extends BaseController {
 				console.log(users);
 				this.success(res, users)
 			})
+			.catch(error => this.error(res, error));
+	}
+
+	profile(req, res, next) {
+		this
+			.questionsManager
+			.count(req.user.id, req.user)
+			.then(user => this.success(res, _.extend(user, { wallet: req.user.wallet })))
 			.catch(error => this.error(res, error));
 	}
 }
