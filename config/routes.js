@@ -2,7 +2,8 @@
 
 module.exports = {
 	users: {
-		authorize: '/users/authorize'
+		authorize: '/users/authorize',
+		getAll: '/users/all'
 	},
 	questions: {
 	}

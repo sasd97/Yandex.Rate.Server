@@ -27,10 +27,10 @@ class AppRoutes extends AppUnit {
 	}
 
 	_onCreate() {
-		this.authorizationMiddleware = new AuthorizationMiddleware(this.managers.users);
+		this.authorizationMiddleware = new AuthorizationMiddleware(this.managers.users).checkCredentials;
 		this.errorMiddleware = new ErrorMiddleware();
 
-		this.usersController = new UsersController(this.managers.users);
+		this.usersController = new UsersController(this.managers.users, this.managers.questions);
 		this.questionsControllers = new QuestionController(this.managers.questions);
 	}
 
@@ -54,6 +54,7 @@ class AppRoutes extends AppUnit {
 
 	registerUsers(app, paths, controller) {
 		app.get(paths.authorize, controller.authorize);
+		app.get(paths.getAll, this.authorizationMiddleware, controller.getAll);
 	}
 
 	registerQuestion(app, paths, controller) {

@@ -26,7 +26,7 @@ class AuthorizationMiddleware extends BaseController {
 			.verify(token)
 			.then(payload => {
 				currentPayload = payload;
-				return this.userManager.findByIdAndNick(currentPayload.id, currentPayload.nick);
+				return this.userManager.findByIdAndNick(currentPayload.nick);
 			})
 			.then(user => {
 				if (!user) return next(errorConfig.UNAUTHORIZED);
