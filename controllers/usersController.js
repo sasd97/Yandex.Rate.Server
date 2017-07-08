@@ -45,7 +45,7 @@ class UsersController extends BaseController {
 				user.roles = u.roles;
 				user.isActive = u.isActive;
 
-				return this.questionsManager.count(user.id, u);
+				return this.questionsManager.count(u.id, u);
 			})
 			.then(u => {
 				_.extend(user, u);

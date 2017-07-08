@@ -18,6 +18,8 @@ class QuestionsController extends BaseController {
 		this.getQuestions = this.getQuestions.bind(this);
 		this.addQuestion = this.addQuestion.bind(this);
 		this.getQuestion = this.getQuestion.bind(this);
+		this.like = this.like.bind(this);
+		this.dislike = this.dislike.bind(this);
 	}
 
 	getQuestions(req, res, next) {
@@ -98,6 +100,62 @@ class QuestionsController extends BaseController {
 		return this
 			.questionsManager
 			.findById(id)
+			.then(question => {
+				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
+
+				return {
+					id: question.id,
+					description: question.description,
+					likes: question.likes,
+					dislikes: question.dislikes
+				};
+			})
+			.then(questions => this.success(res, questions))
+			.catch(error => this.error(res, error));
+	}
+
+	like(req, res, next) {
+		const schema = Joi.object().keys({
+			id: Joi.string().required(),
+			token: Joi.string().required()
+		});
+
+		const validationResult = this.validate(req, schema);
+		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+
+		const { id } = req.query;
+
+		return this
+			.questionsManager
+			.like(id, req.user.id)
+			.then(question => {
+				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
+
+				return {
+					id: question.id,
+					description: question.description,
+					likes: question.likes,
+					dislikes: question.dislikes
+				};
+			})
+			.then(questions => this.success(res, questions))
+			.catch(error => this.error(res, error));
+	}
+
+	dislike(req, res, next) {
+		const schema = Joi.object().keys({
+			id: Joi.string().required(),
+			token: Joi.string().required()
+		});
+
+		const validationResult = this.validate(req, schema);
+		if (validationResult.error) return next(errorConfig.BAD_REQUEST);
+
+		const { id } = req.query;
+
+		return this
+			.questionsManager
+			.dislike(id, req.user.id)
 			.then(question => {
 				if (!question) throw errorConfig.QUESTION_NOT_FOUND;
 

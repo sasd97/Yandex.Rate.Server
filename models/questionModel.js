@@ -16,9 +16,17 @@ module.exports = mongoose => {
 			type: Number,
 			default: 0
 		},
+		likers: {
+			type: [String],
+			default: []
+		},
 		dislikes: {
 			type: Number,
 			default: 0
+		},
+		dislikers: {
+			type: [String],
+			default: []
 		},
 		creationDate: {
 			type: Date,

@@ -11,6 +11,8 @@ module.exports = {
 	questions: {
 		getQuestions: '/questions',
 		addQuestion: '/questions/add',
-		getQuestion: '/questions/get'
+		getQuestion: '/questions/get',
+		like: '/questions/like',
+		dislike: '/questions/dislike'
 	}
 };
