@@ -19,6 +19,8 @@ class UsersController extends BaseController {
 		this.authorize = this.authorize.bind(this);
 		this.getAll = this.getAll.bind(this);
 		this.profile = this.profile.bind(this);
+		this.lock = this.lock.bind(this);
+		this.release = this.release.bind(this);
 	}
 
 	authorize(req, res, next) {
@@ -82,6 +84,14 @@ class UsersController extends BaseController {
 			.count(req.user.id, req.user)
 			.then(user => this.success(res, _.extend(user, { wallet: req.user.wallet })))
 			.catch(error => this.error(res, error));
+	}
+
+	lock(req, res, next) {
+
+	}
+
+	release(req, res, next) {
+
 	}
 }
 

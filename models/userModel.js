@@ -25,6 +25,9 @@ module.exports = mongoose => {
 			type: Boolean,
 			default: true
 		},
+		activationToken: {
+			type: String
+		},
 		creationDate: {
 			type: Date,
 			default: Date.now
