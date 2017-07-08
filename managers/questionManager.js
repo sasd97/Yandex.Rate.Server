@@ -11,6 +11,8 @@ class QuestionManager extends AppUnit {
 
 	_onBind() {
 		this.create = this.create.bind(this);
+		this.count = this.count.bind(this);
+		this.getQuestions = this.getQuestions.bind(this);
 	}
 
 	create(userId, description) {
@@ -41,6 +43,12 @@ class QuestionManager extends AppUnit {
 
 				return result;
 			});
+	}
+
+	getQuestions(userId) {
+		return this.questionModel.find({ userId })
+			.exec()
+			.then(questions => questions || []);
 	}
 }
 

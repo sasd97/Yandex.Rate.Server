@@ -9,5 +9,7 @@ module.exports = {
 		release: '/release'
 	},
 	questions: {
+		getQuestions: '/questions',
+		addQuestion: '/questions/add'
 	}
 };

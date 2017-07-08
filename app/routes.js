@@ -31,7 +31,7 @@ class AppRoutes extends AppUnit {
 		this.errorMiddleware = new ErrorMiddleware();
 
 		this.usersController = new UsersController(this.managers.users, this.managers.questions);
-		this.questionsControllers = new QuestionController(this.managers.questions);
+		this.questionsControllers = new QuestionController(this.managers.users, this.managers.questions);
 	}
 
 	register() {
@@ -61,6 +61,8 @@ class AppRoutes extends AppUnit {
 	}
 
 	registerQuestion(app, paths, controller) {
+		app.get(paths.getQuestions, this.authorizationMiddleware, controller.getQuestions);
+		app.get(paths.addQuestion, this.authorizationMiddleware, controller.addQuestion);
 	}
 }
 

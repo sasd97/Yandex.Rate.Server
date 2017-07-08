@@ -11,7 +11,7 @@ class UserManager extends AppUnit {
 		this.save = this.save.bind(this);
 		this.getAll = this.getAll.bind(this);
 		this.parseUsers = this.parseUsers.bind(this);
-		this.findByIdAndNick = this.findByIdAndNick.bind(this);
+		this.findByNick = this.findByNick.bind(this);
 		this.changeActive = this.changeActive.bind(this);
 	}
 
@@ -41,7 +41,7 @@ class UserManager extends AppUnit {
 		return this.userModel.find({});
 	}
 
-	findByIdAndNick(nick) {
+	findByNick(nick) {
 		return this.userModel.findOne({ nick }).exec();
 	}
 
