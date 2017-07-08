@@ -31,7 +31,7 @@ class UsersController extends BaseController {
 
 		const { nick } = req.query;
 
-		let user;
+		let user = {};
 		const tokenData = { nick };
 
 		this
@@ -40,12 +40,19 @@ class UsersController extends BaseController {
 			.then(u => {
 				if (!u) return next(errorConfig.USER_NOT_FOUND);
 
-				user = u;
+				user.roles = u.roles;
+				user.isActive = u.isActive;
+
+				return this.questionsManager.count(user.id, u);
+			})
+			.then(u => {
+				_.extend(user, u);
+
 				tokenData.id = user.id;
 				tokenData.name = user.name;
 				return cryptoUtils.sign(tokenData);
 			})
-			.then(token => this.success(res, userResponseProjector(user, token)))
+			.then(token => this.success(res, _.extend(user, { token })))
 			.catch(error => next(errorConfig.INTERNAL_SERVER_ERROR));
 	}
 

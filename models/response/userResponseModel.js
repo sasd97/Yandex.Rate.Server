@@ -5,6 +5,7 @@ module.exports = (user, token = null) => {
 		nick: user.nick,
 		name: user.name,
 		roles: user.roles,
+		wallet: user.wallet,
 		isActive: user.isActive
 	};
 
